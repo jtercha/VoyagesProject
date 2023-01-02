@@ -1,0 +1,891 @@
+Location_ID,Location,State_Province,Country,LAT,LONG,Location_Notes,Location_ID (TEMP),Update Location in Voyager List?
+[spoken],,,,NULL,NULL,,[spoken],UPDATE
+[unknown],,,,NULL,NULL,,[unknown location],UPDATE - COMBINE
+[unknown],,,,NULL,NULL,,[unknown],UPDATE - COMBINE
+[unknown],,,,NULL,NULL,,NULL,UPDATE - COMBINE
+UK-Sombrero_(100NNW),Sombrero Island (100 miles NNW of Sombrero),NULL,United Kingdom,19.94600549,-63.989147,"""100 miles NW by N. of Sombrero""",100 miles NW by N. of Sombrero,UPDATE
+300 miles from Cape Henry,,,,NEW -- TO EDIT,,Which direction?,300 miles from Cape Henry,UNKNOWN_LOC
+5 miles below the Rappahannock light boat,,,,NEW -- TO EDIT,,Vague: Unknown location,5 miles below the Rappahannock light boat,UNKNOWN_LOC
+Albemarle and Chesapeake Canal (sunk in canal),,,,NEW -- TO EDIT,,Unsure where in the canal the boat sank,Albemarle and Chesapeake Canal (sunk in canal),UNKNOWN_LOC
+AL-Mobile,Mobile,Alabama,United States,30.68769205,-88.03729705,,AL-Mobile,UPDATE
+Alvarado,,,,NEW -- TO EDIT,,Unsure where this is located (Schooner Ashland),Alvarado,UNKNOWN_LOC
+Androsson Sd.,,,,NEW -- TO EDIT,,,Androsson Sd.,UNKNOWN_LOC
+Apalachicola,Apalachicola,Florida,United States,29.72812551,-84.98287207,,Apalachicola,UPDATE
+ARG-BuenosAires,Buenos Aires,NULL,Argentina,-34.59189645,-58.37234738,,Buenos Ayres,UPDATE
+ARG-FalklandIslands,Falkland Islands,NULL,Argentina,-51.65980418,-59.32342566,,Falkland Islands,UPDATE
+ARG-FalklandIslands_(off),Falkland Islands (off),NULL,Argentina,-51.65534639,-56.96688095,,Falkland Islands (off and bearing for),UPDATE - COMBINE
+ARG-FalklandIslands_(off),Falkland Islands (off),NULL,Argentina,-51.65534639,-56.96688095,,Falkland Islands (off),UPDATE - COMBINE
+ARG-RioPlata,Rio de la Plata (off),NULL,Argentina,-36.23156164,-54.25203749,"""off the River Platte""",off the River Platte,UPDATE
+ARG-RioPlata,Rio de la Plata (off),NULL,Argentina,-36.23156164,-54.25203749,,River Platte,UPDATE - COMBINE
+ASTL,NULL,NULL,Australia,-33.82871943,151.2871009,Point located outside of the mouth of Sydney Harbor,Australia,UPDATE
+ASTL-Sydney,Sydney,New South Wales,Australia,-33.86298966,151.2129066,,NSW-Sydney,UPDATE
+Baker's Landing,,,,NEW -- TO EDIT,,Unclear where the point should be located (Schooner Black Bird),Baker's Landing,UNKNOWN_LOC
+MA-Barnstable,Barnstable,Massachusetts,United States,41.70717349,-70.29819727,,Barnstable,UPDATE
+ME-Bath,Bath,Maine,United States,43.91276603,-69.81414405,,Bath,UPDATE - COMBINE
+BE-Antwerp,Antwerp,NULL,Belgium,51.22127559,4.405210178,,Antwerp,UPDATE
+WL-Beaumaris,Beaumaris,NULL,Wales,53.26264911,-4.091605354,,Beaumaris,UPDATE
+Beverley,,,,NEW -- TO EDIT,,Vague: Unknown location,Beverley,UNKNOWN_LOC
+ME-BlueHill,Blue Hill,Maine,United States,44.41316462,-68.58805304,,Bluehill,UPDATE
+NJ-Bordentown,Bordentown,New Jersey,United States,40.1486676,-74.71373494,,Bordentown,UPDATE - COMBINE
+BR,NULL,NULL,Brazil,-23.06695918,-43.07243891,Point located off of Rio Janeiro,Brazil,UPDATE - COMBINE
+BR,NULL,NULL,Brazil,-23.06695918,-43.07243891,Point located off of Rio Janeiro,Brazils,UPDATE - COMBINE
+VA-Brandon,Brandon,Virginia,United States,37.25750155,-76.99352035,,Brandon,UPDATE
+NJ-BrandywineShoal,Brandywine Shoal,New Jersey,United States,39.00015927,-75.11627368,,Brandwine Shoal,UPDATE
+BR-Bahia,Bahia or San Salvador,Bahia,Brazil,-12.96624346,-38.51012812,Geolocated at the port of Salvador in Bahia,Bahai,UPDATE - COMBINE
+BR-Bahia,Bahia or San Salvador,Bahia,Brazil,-12.96624346,-38.51012812,Geolocated at the port of Salvador in Bahia,Bahia,UPDATE - COMBINE
+NJ-Bridgetown,Bridgetown,New Jersey,United States,39.42699437,-75.23403983,,Bridgetown,UPDATE
+Bridgton,,,,NEW -- TO EDIT,,Vague: Unknown location,Bridgton,UPDATE
+MD-BroadCreek,Broad Creek,Maryland,United States,38.74566621,-77.006552,,Broad Creek,UPDATE
+BR-Pará,Pará,Pará,Brazil,-1.462888894,-48.49624483,Point located at Belém,Para,UPDATE
+BR-Pernambuco,Pernambuco,Pernambuco,Brazil,-8.059763909,-34.88641391,,BR-Pernambuco,UPDATE - COMBINE
+BR-Pernambuco,Pernambuco,Pernambuco,Brazil,-8.059763909,-34.88641391,,Pernambaco,UPDATE - COMBINE
+BR-Pernambuco,Pernambuco,Pernambuco,Brazil,-8.059763909,-34.88641391,,Pernambuco,UPDATE - COMBINE
+BR-Pernambuco-(30_miles_North),Pernambuco (30 miles north),Pernambuco,Brazil,-7.642925387,-34.71744064,"Sailing vessel, 30 miles north of Pernambuco",Pernambuco (30 miles north),UPDATE
+BR-RioJaneiro,Rio Janeiro,Rio Janeiro,Brazil,-22.90689345,-43.17316029,,BR-RioJaneiro,NO-UPDATE
+BR-RioJaneiro_(off),Rio Janeiro,Rio Janeiro,Brazil,-23.06695918,-43.07243891,,Off Rio,UPDATE
+BR-Santos,Santos,NULL,Brazil,-23.9593243,-46.33175282,,Santos,UPDATE
+Bryan's Landing,,,,NEW -- TO EDIT,,Vague: Unknown location,Bryan's Landing,UNKNOWN_LOC
+BS-Inagua,Inagua Islands,NULL,Bahamas,21.06729042,-73.3238602,,Inagua,UPDATE
+BS-Nassau,Nassua,NULL,Bahamas,25.0778975,-77.33967978,,Nassua,UPDATE
+BS-RumKey,Rum Key,NULL,Bahamas,23.64520559,-74.83703883,,Rum Key,UPDATE
+Buner's Bay,,,,NEW -- TO EDIT,,Vague: Unknown location,Buner's Bay,UNKNOWN_LOC
+Busville,,,,EDIT,,Unknown location. Accessible via C&O canal. Not enough information to commit.,Busville,UNKNOWN_LOC
+CA,NULL,California,United States,37.78624172,-122.6012732,Point located off the coast of San Francisco,CA,UPDATE - COMBINE
+CA,NULL,California,United States,37.78624172,-122.6012732,Point located off the coast of San Francisco,California,UPDATE - COMBINE
+ME-Calais,Calais,Maine,United States,45.1889434,-67.27814255,,Calias,UPDATE - COMBINE
+Callais,,,,NEW -- TO EDIT,,"Could be Maine Calais, or possibly France Calais?? (only one record of ""Callais"" in database)",Callais,UNKNOWN_LOC
+Calleo,,,,NEW -- TO EDIT,,Unsure if this is a misspelling or what it refers to.,Calleo,UNKNOWN_LOC
+CAN-Quebec,Quebec,NULL,Canada,46.81368871,-71.20535856,,Quebec,UPDATE
+Cape Henry N.W. by W.,,,,NEW -- TO EDIT,,,Cape Henry N.W. by W.,UNKNOWN_LOC
+CA-SanFrancisco,San Francisco,California,United States,37.79746415,-122.3964427,,CA-SanFrancisco,NO-UPDATE
+CA-SanFranciscoHarbor,San Francisco Harbor,California,United States,37.82206786,-122.46836,,San Francisco Harbor (mouth of),UPDATE
+MD-Chicamuxen,Chicamuxen,Maryland,United States,38.54349903,-77.23150762,,Chickamuxen,UPDATE
+CH-Iquique,Inquique,NULL,Chile,-20.23071222,-70.13568264,,Iquique,UPDATE
+CH-Talcahuano,Talcahuano,NULL,Chile,-36.72496011,-73.1171114,"""Talanahuano""",Talanahuano,UPDATE
+VA-Chuckatuck,Chuckatuck,Virginia,United States,36.86159431,-76.58027679,,Chuchatuck,UPDATE
+CL-CapeHorn,Cape Horn,NULL,Chile,-55.980304,-67.26702821,,Cape Horn (off the cape),UPDATE
+CL-Valparaíso,Valparaíso,NULL,Chile,-33.04339016,-71.60570574,,Valparaiso,UPDATE
+COCanal-70,C&O Canal - 70 miles,Maryland,United States,39.42839882,-77.75702985,,COCanal-70,UPDATE
+COCanal-71,C&O Canal - 71 miles,Maryland,United States,39.43034056,-77.77526002,,COCanal-71,UPDATE
+COCanal-Dam4,C&O Canal - Dam No. 4,Maryland,United States,39.49523958,-77.82670059,,COCanal-Dam4,UPDATE
+Cone,,,,NEW -- TO EDIT,,Vague: Unknown location,Cone,UNKNOWN_LOC
+VA-ConeRiver,Cone River,Virginia,United States,37.99055212,-76.46484445,,Cone River,UPDATE
+Coxe's,,,,NEW -- TO EDIT,,Vague: Unknown location,Coxe's,UNKNOWN_LOC
+VA-CranyIsland,Crany Island,Virginia,United States,36.89254039,-76.34994383,,Crany Island,UPDATE
+Croton,,,,NEW -- TO EDIT,,Vague: Unknown location,Croton,UNKNOWN_LOC
+CT,NULL,Connecticut,United States,41.214445,-72.93607721,Point located in Long Island Sound near New Haven,CT,UPDATE
+CT-Bridgeport,Bridgeport,Connecticut,United States,41.17923198,-73.18876529,,Bridgeport,UPDATE - COMBINE
+CT-Bridgeport,Bridgeport,Connecticut,United States,41.17923198,-73.18876529,,CT-Bridgeport,UPDATE - COMBINE
+CT-Derby,Derby,Connecticut,United States,41.31986059,-73.09030031,,CT-Derby,UPDATE - COMBINE
+CT-Derby,Derby,Connecticut,United States,41.31986059,-73.09030031,,CT-Durby,UPDATE - COMBINE
+CT-Greenwich,Greenwich,Connecticut,United States,41.02697246,-73.62600792,,CT-Greenwich,NO-UPDATE
+CT-Hartford,Hartford,Connecticut,United States,41.76486268,-72.6667334,,CT-Hartford,NO-UPDATE
+CT-NewHaven,New Haven,Connecticut,United States,41.30313142,-72.91798195,,CT-NewHaven,UPDATE
+CT-NewLondon,New London,Connecticut,United States,41.3552259,-72.09961086,,CT-NewLondon,UPDATE
+CT-NewLondon,New London,Connecticut,United States,41.3552259,-72.09961086,,N. London,UPDATE - COMBINE
+CT-Norwalk,Norwalk,Connecticut,United States,41.11777539,-73.40824633,,Norwalk,UPDATE
+CT-Norwich,Norwich,Connecticut,United States,41.52444985,-72.07575736,,CT-Norwich,UPDATE - COMBINE
+CT-Norwich,Norwich,Connecticut,United States,41.52444985,-72.07575736,,Norwich,UPDATE - COMBINE
+CT-Stamford,Stamford,Connecticut,United States,41.05289133,-73.54254976,,CT-Stamford,UPDATE
+CT-Stonington,Stonington,Connecticut,United States,41.33462991,-71.90682799,,CT-Stonington,NO-UPDATE
+CU,NULL,NULL,Cuba,22.74514269,-79.32379092,Point located off the northern shore of Cuba,Cuba,UPDATE
+CU-Staque,Staque,,,NEW -- TO EDIT,,Vague: Unknown location,Cuba-Staque,UNKNOWN_LOC
+CU-Cienfuegos,Cienfuegos,NULL,Cuba,22.14154012,-80.44873734,,Cienfuegos,UPDATE - COMBINE
+CU-Cienfuegos,Cienfuegos,NULL,Cuba,22.14154012,-80.44873734,,CU-Cienfuegos,UPDATE - COMBINE
+CU-Havana,Havana,NULL,Cuba,23.13644356,-82.34983059,,CU-Havana,NO-UPDATE
+CW,NULL,NULL,Curaçao,12.10405556,-68.93751848,,Curracos,UPDATE
+CU-StJago,St. Jago de Cuba,Cuba,Spanish Empire,20.0200008,-75.8358801,St. Jago de Cuba is now the city of Santiago,St. Jago,UPDATE - COMBINE
+CU-StJago,St. Jago de Cuba,Cuba,Spanish Empire,20.0200008,-75.8358801,St. Jago de Cuba is now the city of Santiago,St. Jago de Cuba,UPDATE - COMBINE
+MA-Danvers,Danvers,Massachusetts,United States,42.55842548,-70.92981072,,Danvers,UPDATE
+GA-Darien,Darien,Georgia,United States,31.36846547,-81.4350531,,Darien,UPDATE - COMBINE
+DC,NULL,District of Columbia,United States,38.88034129,-77.02485282,"Point is the same as Washington, D.C.",DC,UPDATE
+DC-Georgetown,Georgetown,District of Columbia,United States,38.90519213,-77.06282736,,DC-Georgetown,NO-UPDATE
+DC-Washington,Washington,District of Columbia,United States,38.88034129,-77.02485282,,DC-Washington,NO-UPDATE
+DE,NULL,Delaware,United States,39.58018313,-75.55619217,Point located in the center of the Delaware River near New Castle. Port unknown.,DE,UPDATE - COMBINE
+DE,NULL,Delaware,United States,39.58018313,-75.55619217,Point located in the center of the Delaware River near New Castle. Port unknown.,De'l,UPDATE - COMBINE
+DE,NULL,Delaware,United States,39.58018313,-75.55619217,Point located in the center of the Delaware River near New Castle. Port unknown.,Delaware,UPDATE - COMBINE
+DE-Brandywine,Brandywine,Delaware,United States,39.75388074,-75.54925119,Geolocated in Brandywine Creek near Brandywine Village (near Wilmington),Brandywine,UPDATE - COMBINE
+DE-Brandywine,Brandywine,Delaware,United States,39.75388074,-75.54925119,Geolocated in Brandywine Creek near Brandywine Village (near Wilmington),DE-Brandywine,UPDATE
+DE-BrandywineMills,Brandywine Mills,Delaware,United States,39.77457278,-75.577445,Geolocated at the lower dam at the Eleutherian Mills (Hagley),Brandywine Mills,UPDATE - COMBINE
+DE-BrandywineMills,Brandywine Mills,Delaware,United States,39.77457278,-75.577445,Geolocated at the lower dam at the Eleutherian Mills (Hagley),DE-BrandywineMills,UPDATE
+DE-Bremen,Bremen,NULL,Germany,53.07875941,8.800513996,,Bremen,UPDATE
+DE-Bremerhaven,Bremerhaven,NULL,Germany,53.54089819,8.581701158,,Bremerhaven,UPDATE
+DE-CapeHenlopen,Cape Henlopen,Delaware,United States,38.81216461,-75.09757574,Geolocated off of Cape Henlopen,Cape Henlopen,UPDATE
+DE-CapeHenlopen_030SE,Thirty miles southeast of Cape Henlopen,Delaware,United States,38.55194002,-74.64728177,"""30 miles southeast Cape Henlopen""",30 miles southeast Cape Henlopen,UPDATE
+DE-DelawareBreakwater,Delaware Breakwater,Delaware,United States,38.82135647,-75.09406646,,Delaware Breakwater,UPDATE
+DE-DelawareCity,Delaware City,Delaware,United States,39.57953411,-75.58755327,,Delaware City,UPDATE
+Deep Hole,,,,NEW -- TO EDIT,,Vague: Unknown location,Deep Hole,UNKNOWN_LOC
+DE-IndianRiver,Indian River (off),Delaware,United States,38.61081537,-75.02305466,,off Indian River,UPDATE
+DE-Lewes,Lewes,Delaware,United States,38.77593884,-75.139238,,DE-Lewes,UPDATE
+DE-Lewes_(ashore),Lewes (ashore),Delaware,United States,38.7824581,-75.1348409,,DE-Lewes (ashore),UPDATE
+DE-Wilmington,Wilmington,Delaware,United States,39.73813072,-75.55289719,,DE-Wilmington,UPDATE
+DFAL,,,,NEW -- TO EDIT,,Vague: Unknown location,DFAL,UNKNOWN_LOC
+DM,NULL,NULL,Dominica,15.49318095,-61.37915282,,Dominica,UPDATE
+Dover,,,,NEW -- TO EDIT,,Vague: Unknown location,Dover,UNKNOWN_LOC
+Drinkwater,,,,NEW -- TO EDIT,,Vague: Unknown location,Drinkwater,UNKNOWN_LOC
+RI-DutchIslandHarbor,Dutch Island Harbor,Rhode Island,United States,41.50034026,-71.39704452,,Dutch Island Harbor,UPDATE
+REGION-Africa_(east coast),Africa (east coast),NULL,NULL,-5.524439795,40.18282239,Point located off the coast of Tanzania,east coast of Africa,UPDATE
+REGION-EastIndies,East Indies,NULL,NULL,-0.221312658,107.11791,Point located northwest of the Java Sea,East Indies,UPDATE
+East Point,,,,NEW -- TO EDIT,,Vague: Unknown location,East Point,UNKNOWN_LOC
+East River,,,,NEW -- TO EDIT,,Vague: Unknown location,East River,UNKNOWN_LOC
+East River County,,,,NEW -- TO EDIT,,Vague: Unknown location,East River County,UNKNOWN_LOC
+VA-EasternShore,Eastern Shore,,,37.39578362,-75.97685723,Unsure exactly where on the Eastern Shore -- point located near Eastville,Eastern Shore,UPDATE
+Easton,,,,NEW -- TO EDIT,,Vague: Unknown location,Easton,UNKNOWN_LOC
+MA-Edgartown,Edgartown,Massachusetts,United States,41.38939533,-70.51303804,,Edgartown,UPDATE
+MX-ElideIsland,Isla Elide,Baja California,Mexico,28.6697657,-114.278038,,Elide Island,UPDATE
+EN,NULL,NULL,England,51.44855247,0.369335101,Geolocated in the Thames River near Gravesend,EN,UPDATE
+EN-Bristol,Bristol,Bristol,England,51.45022987,-2.598056518,,Bristol,UPDATE - COMBINE
+EN-Bristol,Bristol,Bristol,England,51.45022987,-2.598056518,,EN-Bristol,UPDATE - COMBINE
+EN-Bristol (Pill),Bristol (Pill),Bristol,England,51.47944544,-2.676659807,"Geolocated at Pill, below Bristol on the River Avon",Bristol (Pill),UPDATE - COMBINE
+EN-Bristol (Pill),Bristol (Pill),Bristol,England,51.47944544,-2.676659807,"Geolocated at Pill, below Bristol on the River Avon",Bristol Pill,UPDATE - COMBINE
+EN-Cowes,Cowes,NULL,England,50.76249178,-1.297928597,,Europe-Cowes,UPDATE
+EN-Deal,Deal,NULL,England,51.22302152,1.4045186,,EN-Deal,UPDATE
+EN-Falmouth,Falmouth,NULL,England,50.15045317,-5.063261363,,EN-Falmouth,UPDATE - COMBINE
+EN-Falmouth,Falmouth,NULL,England,50.15045317,-5.063261363,,Falmouth,UPDATE - COMBINE
+EN-IsleofWight_(off),Isle of Wight (off),NULL,England,50.49799458,-1.233507471,,Isle of Wight (off the island),UPDATE - COMBINE
+EN-IsleofWight_(off),Isle of Wight (off),NULL,England,50.49799458,-1.233507471,,Off the Wight,UPDATE - COMBINE
+EN-Liverpool,Liverpool,NULL,England,53.40542552,-2.993584239,,EN-Liverpool,NO-UPDATE
+EN-Liverpool_(near),Liverpool (near),NULL,England,53.44493309,-3.029733811,,Liverpool Outbound,UPDATE
+EN-Lizard Point_(off),Lizard Point (off),NULL,England,49.95177874,-5.208583262,,Off Lizard Point (Falmouth),UPDATE
+EN-London,London,NULL,England,51.51085126,-0.086571295,,EN-London,UPDATE
+EN-Newcastle,Newcastle,NULL,England,54.96879398,-1.607672668,,EN-Newcastle,UPDATE
+EN-Newport,Newport,NULL,England,52.76881616,-2.378312123,,EN-Newport,UPDATE
+EN-Shields,Shields,NULL,England,55.00863346,-1.443779841,,EN-Shields,UPDATE
+GEOLOC_000.00_-110.00,,,,0,-110,Equator and Lon. 110 W,Equator and Lon. 110 W,UPDATE
+Eskridge,,,,NEW -- TO EDIT,,Vague: Unknown location,Eskridge,UNKNOWN_LOC
+"Esmeralda, Venezuela",Esmeralda,NULL,Venezuela,EDIT,,"Unknown location. It might be Esmeralda, Equador -- a town on the Pacific Coast -- but I was unable to locate a town or island in Venezuela by this name. Another island, Isla de Aves, claimed by Venezuela was a known guano island at this point in time.","Esmeralda, Venezuela",UNKNOWN_LOC
+REGION-Europe,Europe,NULL,NULL,48.46355458,10.23924522,Located point in southern Germany,Europe,UPDATE
+MA-Fairhaven,Fairhaven,Massachusetts,United States,41.6357416,-70.90552123,,Fairhaven,UPDATE
+Fayall,,,,NEW -- TO EDIT,,Vague: Unknown location,Fayall,UNKNOWN_LOC
+Fernandina,,,,NEW -- TO EDIT,,Vague: Unknown location,Fernandina,UNKNOWN_LOC
+VA-Norfolk_(FerryPoint),Norfolk (Ferry Point),Virginia,United States,36.85064332,-76.29990943,Unsure the exact location of Ferry Point in Norfolk harbor. Placed point in the Elizabeth River along the Norfolk docks.,Ferry Point (aground),UPDATE
+FL,NULL,Florida,United States,30.05899507,-84.20410845,Located point in Apalachee Bay,FL,UPDATE
+FL-GreatIsaacs,Great Isaacs,Florida,United States,26.03419933,-79.10259393,,GreatIsaacs,UPDATE
+FL-Jacksonville,Jacksonville,Florida,United States,30.32627094,-81.65797011,,FL-Jacksonville,UPDATE
+FL-Jacksonville,Jacksonville,Florida,United States,30.32627094,-81.65797011,,Jacksonville,UPDATE
+FL-KeyWest,Key West,Florida,United States,24.55351383,-81.79543828,,FL-KeyWest,UPDATE - COMBINE
+FL-KeyWest,Key West,Florida,United States,24.55351383,-81.79543828,,Key West,UPDATE - COMBINE
+FL-Pensacola,Pensacola,Florida,United States,30.41513485,-87.21053652,,Pensacola,UPDATE
+FL-TriumphReef,Triumph Reef,Florida,United States,25.51088384,-80.11337683,,Triumph Reef,UPDATE
+RI-FollyLanding,Folly Landing,Rhode Island,United States,41.68363423,-71.45000307,,Folly Landing,UPDATE
+NJ-ForkedRiver,Forked River,New Jersey,United States,39.83647324,-74.19381864,,Forked River,UPDATE
+Fowk's Landing,VA-FowksLanding,Virginia,United States,38.33075773,-77.24745514,,Fowk's Landing,UPDATE
+Frankfort,,,,NEW -- TO EDIT,,Vague: Unknown location,Frankfort,UNKNOWN_LOC
+FR-Marseilles,Marseilles,NULL,France,43.29943384,5.371566781,,Marseilles,UPDATE
+VA-Alex_(below),Alexandria (below),Virginia,United States,38.79228177,-77.03190896,,from below,UPDATE - COMBINE
+GA-Augusta,Augusta,Georgia,United States,33.47534331,-81.96104368,,GA-Augusta,UPDATE
+GA-Darien,Darien,Georgia,United States,31.36846547,-81.4350531,,GA-Darien,UPDATE
+GA-OssabawIsland,Ossabaw Island,Georgia,United States,31.76031465,-81.08437761,,Assabaw Island,UPDATE
+Gardiner,,,,NEW -- TO EDIT,,Check to see if in Maine,Gardiner,UNKNOWN_LOC
+GA-Savannah,Savannah,Georgia,United States,32.08122481,-81.0923264,,GA-Savannah,NO-UPDATE
+IT-Genoa,Genoa,NULL,Italy,44.39631959,8.943331692,,Genoa,UPDATE
+IT-Genoa_(ashore-near),"Genoa (ashore, near Genoa)",NULL,Italy,NEW -- TO EDIT,,UNKNOWN,Genoa (ashore near),UNKNOWN_LOC
+GEO-CapeHenry_001.5S,,,,36.91647953,-75.9819324,"""1 1/2 miles south of Cape Henry""",1 1/2 miles south of Cape Henry,UPDATE
+GEO-CapeHenry_015ESE,,,,36.8580801,-75.73903249,"""15 miles E.S.E. of Cape Henry""",15 miles E.S.E. of Cape Henry,UPDATE
+GEO-CapeHenry_018S,,,,36.69078154,-75.87461874,"""18 miles South of Cape Henry""",18 miles South of Cape Henry,UPDATE
+GEO-CapeHenry_035S,,,,36.45546201,-75.78598906,"""35 miles south of Cape Henry""",35 miles south of Cape Henry,UPDATE
+GEO-CapeHenry_080S,,North Carolina,United States,35.82616681,-75.55586692,"""80 miles south of Cape Henry (ashore)"" - Geolocated near Bodie Island Lighthouse",80 miles south of Cape Henry (ashore),UPDATE
+GEOLOC_001.75_-014.75,,,,1.750016086,-14.75001073,"Lat 1.45 N., Lon. 14.45 W.","Lat 1.45 N., Lon. 14.45 W.",UPDATE
+GEOLOC_002.00_-028.00,,,,2,-28,Lat 2 N Lon 28 W,Lat 2 N Lon 28 W,UPDATE
+GEOLOC_006.00_-037.00,,,,6,-37,"Lat. 6 N., Lon. 37 W.","Lat. 6 N., Lon. 37 W.",UPDATE
+GEOLOC_-007.16_-160.00,,,,-7.166667,-160,"Long. 160 West, Lat. 7 [degrees] 10 [minutes] South","Long. 160 West, Lat. 7 [degrees] 10 [minutes] South",UPDATE
+GEOLOC_-009.00_-032.67,,,,-9,-32.666667,"Lat. 9 south, Lon. 32.40 west","Lat. 9 south, Lon. 32.40 west",UPDATE
+GEOLOC_010.32_-033.83,,,,10.316667,-33.833333,Lat 10 [degrees] 19 [minutes]; Long 33 [degrees] 50 [minutes],Lat 10 [degrees] 19 [minutes]; Long 33 [degrees] 50 [minutes],UPDATE
+GEOLOC_-010.50_-032.33,,,,-10.5,-32.333333,"Lat. 10.30 S., Lon. 32.20","Lat. 10.30 S., Lon. 32.20",UPDATE
+GEOLOC_013.12_-035.00,,,,13.116667,-35,"Lat. 13 [degrees] 7 [minutes] ., long. 35 [degrees] W.","Lat. 13 [degrees] 7 [minutes] ., long. 35 [degrees] W.",UPDATE
+GEOLOC_-015.56_-027.78,,,,-15.566667,-27.783333,"Lat. 15.34 south, Lon. 27.47 west","Lat. 15.34 south, Lon. 27.47 west",UPDATE
+GEOLOC_019.00_-060.00,,,,19,-60,"Lat. 19, Lon. 60","Lat. 19, Lon. 60",UPDATE
+GEOLOC_019.82_-058.68,,,,19.816667,-58.683333,Lat 19 [degrees] 49 [minutes]; Long 58 [degrees] 41 [minutes],Lat 19 [degrees] 49 [minutes]; Long 58 [degrees] 41 [minutes],UPDATE
+GEOLOC_-020.00_-030.00,,,,-20,-30,"Lat. 20 [degrees] S, Long. 30 [degrees] W.","Lat. 20 [degrees] S, Long. 30 [degrees] W.",UPDATE
+GEOLOC_020.00_-056.67,,,,20,-56.666667,"Lat. 20 N., Long. 56.40 W","Lat. 20 N., Long. 56.40 W",UPDATE
+GEOLOC_020.18_-056.92,,,,20.183333,-56.916667,"Lat. 20.11 north, Lon. 56.55 west","Lat. 20.11 north, Lon. 56.55 west",UPDATE
+GEOLOC_-021.78_-090.83,,,,-21.783333,-90.883333,"Lat 21 47 S, Long 90 53 W","Lat 21 47 S, Long 90 53 W",UPDATE
+GEOLOC_-024.42_-097.25,,,,-24.416667,-97.25,"Lat. 24.25 south, Lon. 97.15 west","Lat. 24.25 south, Lon. 97.15 west",UPDATE
+GEOLOC_024.47_-063.75,,,,24.466667,-63.75,Lat 24 [degrees] 28 [minutes]; Long 63 [degrees] 45 [minutes],Lat 24 [degrees] 28 [minutes]; Long 63 [degrees] 45 [minutes],UPDATE
+GEOLOC_024.50_-067.50,,,,24.5,-67.5,"Lat. 24.30 north, Lon. 67.30 west","Lat. 24.30 north, Lon. 67.30 west",UPDATE
+GEOLOC_-026.46_-027.67,,,,-26.466667,-27.666667,"Lat. 26.28 south, Lon. 27.40 west","Lat. 26.28 south, Lon. 27.40 west",UPDATE
+GEOLOC_027.56_-060.67,,,,27.566667,-60.666667,Lat. 27 deg. 34'; Long. 60 deg. 40',Lat. 27 deg. 34'; Long. 60 deg. 40',UPDATE
+GEOLOC_027.67_-079.58,,,,27.666667,-79.583333,"Lat 27.40, Long 79.35","Lat 27.40, Long 79.35",UPDATE
+GEOLOC_-032.00_-082.50,,,,-32,-82.5,"Lat 32 S, Long 82.30 W","Lat 32 S, Long 82.30 W",UPDATE
+GEOLOC_033.92_-074.97,,,,33.916667,-74.966667,Lat. 33' 55; Long. 74'58,Lat. 33' 55; Long. 74'58,UPDATE
+GEOLOC_034.70_-068.72,,,,34.7,-68.716667,Lat. 34 '42; Lon. 68 '43,Lat. 34 '42; Lon. 68 '43,UPDATE
+GEOLOC_035.55_-070.47,,,,35.55,-70.466667,Lat 35.33; Lon. 70.28,Lat 35.33; Lon. 70.28,UPDATE
+GEOLOC_036.33_-066.63,,,,36.333333,-66.633333,"Lat. 36.20, Lon. 66.38","Lat. 36.20, Lon. 66.38",UPDATE
+GEOLOC_036.40_-073.50,,,,36.666667,-73.5,"Lat. 36.40, Lon. 73.30","Lat. 36.40, Lon. 73.30",UPDATE
+GEOLOC_037.00_-075.00,"Latitude 37-degrees north, Longitude 75-degrees west",,,37,-75,Lat37N-Long75W,Lat37N-Long75W,UPDATE
+GEOLOC_038.31_-070.87,,,,38.316667,-70.866667,Lat. 38' 19N. Long. 70' 52 W,Lat. 38' 19N. Long. 70' 52 W,UPDATE
+GEOLOC_038.50_-052.90,,,,38.5,-52.9,Lat. 38 30'; Long. 52 54',Lat. 38 30'; Long. 52 54',UPDATE
+GEOLOC_040.00_-070.00,,,,40,-70,"lat. 40, long 71","lat. 40, long 71",UPDATE
+GEOLOC_042.60_-048.83,,,,42.6,-48.833333,"Lat 42 36, Long 48.5","Lat 42 36, Long 48.5",UPDATE
+GEOLOC_043.00_-062.83,,,,43,-62.883333,"Lat 43, Long. 62.53","Lat 43, Long. 62.53",UPDATE
+GEOLOC_046.28_-041.00,,,,46.283333,-41,"Lat 46.17, Lon. 41","Lat 46.17, Lon. 41",UPDATE
+GEOLOC_051.00_-018.50,,,,51,-18.5,Lat 51 N. Long 18.30 W,Lat 51 N. Long 18.30 W,UPDATE
+GEOLOC_-052.78_-083.16,,,,-52.783333,-83.166667,Lat. 52' 47 S; Long. 83' 10 W.,Lat. 52' 47 S; Long. 83' 10 W.,UPDATE
+George City,,,,NEW -- TO EDIT,,Vague: Unknown location,George City,UNKNOWN_LOC
+Georgetown,,,,NEW -- TO EDIT,,Vague: Unknown location,Georgetown,UNKNOWN_LOC
+GEO-SandyHook_020SSE,Twenty miles south-southeast of Sandy Hook,,,40.23539252,-73.78369559,"""20 miles SSE Sandy Hook""",20 miles SSE Sandy Hook,UPDATE
+GEO-SandyHook_080S,Eighty miles south of Sandy Hook,,,39.306036,-74.01841752,"""80 miles south of Sandy Hook""",80 miles south of Sandy Hook,UPDATE
+GEO-SandyHook_090E,Ninety miles east of Sandy Hook,,,40.42260931,-72.2703548,"""90 miles east of Sandy Hook""",90 miles east of Sandy Hook,UPDATE
+Glasgow,,,,NEW -- TO EDIT,,Vague: Unknown location,Glasgow,UNKNOWN_LOC
+MA-Gloucester,Gloucester,Massachusetts,United States,42.61117045,-70.6660167,,Gloster,UPDATE
+Gravesend,,,,NEW -- TO EDIT,,,Gravesend,UNKNOWN_LOC
+VA-GraysCreek,Gray's Creek,Virginia,United States,37.16819658,-76.84712536,,Gray's Creek,UPDATE
+VA-GreatBridge,Great Bridge,Virginia,United States,36.72055666,-76.24036309,,Great Bridge,UPDATE
+NY-Greenport,Greenport,New York,United States,41.10253409,-72.35919147,,Greenport,UPDATE
+GUF-Cayenne,Cayenne,NULL,French Guiana,4.937230462,-52.32599586,,Cayenne,UPDATE
+GY-Demerara,Demerara,NULL,Guyana,6.824035907,-58.16220708,"Geolocated at Georgetown in Guyanna, located at the mouth of the Demerrra River.",Demarara,UPDATE - COMBINE
+GY-Demerara,Demerara,NULL,Guyana,6.824035907,-58.16220708,"Geolocated at Georgetown in Guyanna, located at the mouth of the Demerrra River.",D'marara,UPDATE - COMBINE
+Halsborough,,,,NEW -- TO EDIT,,Vague: Unknown location,Halsborough,UNKNOWN_LOC
+ME-Harrington,Harrington,Maine,United States,44.61927534,-67.81080677,,Harrington,UPDATE
+Harrison's,,,,NEW -- TO EDIT,,Vague: Unknown location,Harrison's,UNKNOWN_LOC
+HAT,NULL,NULL,Haiti,18.54618508,-72.34738917,,Hayti,UPDATE
+HAT-AuxCayes,Aux Cayes,NULL,Haiti,18.1919882,-73.74949799,,Aux Cayes,UPDATE
+HAT-CapeHaytien,Cap-Haitien,NULL,Haiti,19.75969082,-72.19917809,,Cape Haytien,UPDATE
+MD-HattonsPoint,Hatton's Point,Maryland,United States,38.72109321,-77.02990894,,Hatton's Point,UPDATE
+FR-Havre,Le Havre,NULL,France,49.49334285,0.107867525,,Havre,UPDATE
+Helvoet,,,,NEW -- TO EDIT,,Vague: Unknown location,Helvoet,UNKNOWN_LOC
+HI-Honolulu,Honolulu,Hawaii,United States,21.30622438,-157.8597072,,Honolulu,UPDATE
+Hillsborough,,,,NEW -- TO EDIT,,Vague: Unknown location,Hillsborough,UNKNOWN_LOC
+HK-HongKong,Hong Kong,NULL,Hong Kong,22.3193893,114.1693359,,Hong Kong,UPDATE
+ME-Harpswell,Harpswell,Maine,United States,43.78628107,-69.95958219,,Hurpswell,UPDATE
+MA-Hyannis,Hyannis,Massachusetts,United States,41.63113947,-70.30270201,,Hyannis,UPDATE
+VA-JamesRiver_(near_Norfolk),James River (near Norfolk),Virginia,United States,36.95641468,-76.35991576,,"In the River, Bound Up",UPDATE
+IND-Calcutta,Calcutta,West Bengal,India,22.55961364,88.34825299,,Calcutta,UPDATE
+IR-Belfast,Belfast,NULL,Ireland,54.59953118,-5.924114069,,Belfast,UPDATE - COMBINE
+IR-Belfast,Belfast,NULL,Ireland,54.59953118,-5.924114069,,IR-Belfast,UPDATE - COMBINE
+IR-Cork,Cork,NULL,Ireland,51.89871099,-8.475595889,,Cork,UPDATE - COMBINE
+IR-Cork,Cork,NULL,Ireland,51.89871099,-8.475595889,,IR-Cork,UPDATE - COMBINE
+IR-Dublin,Dublin,NULL,Ireland,53.34841823,-6.259644026,,IR-Dublin,UPDATE
+IR-Queenstown,Queenstown,NULL,Ireland,51.85034151,-8.294435575,Cobh known as Queenstown from 1849-1920,Queenstown,UPDATE
+IT-Trieste,Trieste,NULL,Italy,45.64996877,13.77726071,,Trieste,UPDATE
+IT-Venice,Venice,NULL,Italy,45.4401909,12.31822614,,IT-Venice,UPDATE - COMBINE
+IT-Venice,Venice,NULL,Italy,45.4401909,12.31822614,,Venice,UPDATE - COMBINE
+VA-JamesRiver_(near_Norfolk),James River (near Norfolk),Virginia,United States,36.95641468,-76.35991576,,James River (in river near Norfolk),UPDATE
+Jersey,,,,NEW -- TO EDIT,,Vague: Unknown location,Jersey,UNKNOWN_LOC
+JM,NULL,NULL,Jamaica,17.96017073,-76.83343849,Geolocated in Port Royal (or Kingston) harbor.,Jamaica,UPDATE
+JM-Falmouth,Falmouth,NULL,Jamaica,18.49264672,-77.65272439,,JA-Falmouth,UPDATE
+JM-Kingston,Kingston,NULL,Jamaica,17.97063983,-76.79393114,,JAMAICA-Kingston,UPDATE - COMBINE
+JM-Kingston,Kingston,NULL,Jamaica,17.97063983,-76.79393114,,JM-Kingston,UPDATE - COMBINE
+JM-PedroKeys,Pedro Keys,NULL,Jamaica,17.049476,-77.75162,"""Peadrokeys""",Peadrokeys,UPDATE
+Jones' Creek,,,,NEW -- TO EDIT,,Vague: Unknown location,Jones' Creek,UNKNOWN_LOC
+ME-Jonesboro,Jonesboro,Maine,United States,44.6623125,-67.57251397,,Jonesboro,UPDATE
+Key Verde,,,,NEW -- TO EDIT,,Only one instance: shipwreck of the Brig. James Marston in 1858.,Key Verde,UNKNOWN_LOC
+VA-KingGeorgeCty,King William George,Virginia,United States,38.26904792,-77.18196272,Point located at the King George County Courthouse,King George,UPDATE
+VA-KingWilliamCty,King William County,Virginia,United States,37.68746478,-77.01354718,Point located at the King William County Courthouse,King Wm. Co.,UPDATE
+VA-Kinsale,Kinsale,Virginia,United States,38.03017356,-76.5770547,,Kinsale,UPDATE
+LA-Attakapas,Attakapas,Louisiana,United States,30.2144593,-91.99626415,"Point located at Vermillionville, LA",Attackapas,UPDATE - COMBINE
+LA-Attakapas,Attakapas,Louisiana,United States,30.2144593,-91.99626415,"Point located at Vermillionville, LA",Attakapas,UPDATE - COMBINE
+LA-NewOrleans,New Orleans,Louisiana,United States,29.95803891,-90.06160422,,LA-NewOrleans,NO-UPDATE
+Lat 37' 22; Long. 79' 29,,,,NEW -- TO EDIT,,"Lat 37' 22; Long. 79' 29 --> coordinates suggest somewhere in western Virginia, not in the ocean??",Lat 37' 22; Long. 79' 29,UNKNOWN_LOC
+GEOLOC_031.00_-070.00,,,,31.2829,-70,"""Long. 77 deg. North of Gulf""",Long. 77 deg. North of Gulf,UPDATE
+LOST-AT-SEA,Ship Lost at Sea,NULL,NULL,NULL,NULL,,LOST-AT-SEA,NO-UPDATE
+MA,NULL,Massachusetts,United States,42.33283471,-70.91419373,Geolocated outside of Boston harbor,MA,UPDATE
+MA-Amesbury,Amesbury,Massachusetts,United States,42.84756613,-70.93003721,,Amesbury,UPDATE
+MA-Boston,Boston,Massachusetts,United States,42.361145,-71.057083,,MA-Boston,NO-UPDATE
+MA-Cambridge,Cambridge,Massachusetts,United States,42.36930908,-71.07730999,,MA-Cambridge,UPDATE
+MA-CapeAnn,Cape Ann,Massachusetts,United States,42.64849324,-70.59281925,,Cape Ann,UPDATE
+MA-CohassetNarrows,Cohasset Narrows,Massachusetts,United States,41.75069736,-70.62387696,,Cohasset Narrows,UPDATE - COMBINE
+MA-CohassetNarrows,Cohasset Narrows,Massachusetts,United States,41.75069736,-70.62387696,,Cohassett Narrows,UPDATE - COMBINE
+MA-CohassetNarrows,Cohasset Narrows,Massachusetts,United States,41.75069736,-70.62387696,,MA-Cohasset Narrows,UPDATE - COMBINE
+MA-Cuttyhunk,Cuttyhunk Island,Massachusetts,United States,41.40997824,-70.9485466,"""Off the South side of Chittyhunk""",Off the South side of Chittyhunk,UPDATE
+MA-Dighton,Dighton,Massachusetts,United States,41.81484136,-71.12153396,,Dighton,UPDATE - COMBINE
+MA-Dighton,Dighton,Massachusetts,United States,41.81484136,-71.12153396,,MA-Dighton,NO-UPDATE
+MA-Dorchester,Dorchester,Massachusetts,United States,42.30067819,-71.04642392,,MA-Dorchester,NO-UPDATE
+MA-FallRiver,Fall River,Massachusetts,United States,41.70462763,-71.15498563,,Fall River,UPDATE - COMBINE
+MA-FallRiver,Fall River,Massachusetts,United States,41.70462763,-71.15498563,,MA-Fall River,UPDATE - COMBINE
+MA-FallRiver,Fall River,Massachusetts,United States,41.70462763,-71.15498563,,MA-FallRiver,UPDATE - COMBINE
+MA-Gloucester,Gloucester,Massachusetts,United States,42.61117045,-70.6660167,double-check that this should be MASS,Gloucester,UPDATE - COMBINE
+MA-Gloucester,Gloucester,Massachusetts,United States,42.61117045,-70.6660167,,MA-Gloucester,UPDATE - COMBINE
+MA-Harwich,Harwich,Massachusetts,United States,41.66798836,-70.06773764,,Harwich,UPDATE - COMBINE
+MA-Harwich,Harwich,Massachusetts,United States,41.66798836,-70.06773764,,MA-Harwick,UPDATE - COMBINE
+MA-Hingham,Hingham,Massachusetts,United States,42.24509606,-70.88433772,,MA-Hingham,UPDATE
+MA-HolmesHole,Holme's Hole,Massachusetts,United States,41.45460825,-70.60126325,,Holmes Hole,UPDATE - COMBINE
+MA-HolmesHole,Holme's Hole,Massachusetts,United States,41.45460825,-70.60126325,,Holmes' Hole,UPDATE - COMBINE
+MA-HolmesHole,Holme's Hole,Massachusetts,United States,41.45460825,-70.60126325,,MA-HolmesHole,UPDATE - COMBINE
+MA-HolmesHole (Passed),Holme's Hole (Passed),Massachusetts,United States,41.49585563,-70.60013118,Geolocated in the Vineyard Sound off of Holme's Hole,Holmes Hole (passed),UPDATE
+Maloned,,,,NEW -- TO EDIT,,Unknown location; likely between Montevideo and Rio,Maioned,UNKNOWN_LOC
+ESP-Málaga,Málaga,NULL,Spain,36.71841239,-4.419826624,,Malaga,UPDATE
+Maloned,,,,NEW -- TO EDIT,,Unknown location; likely between Montevideo and Rio,Maloned,UNKNOWN_LOC
+MA-MinotsLedge,Minot's Ledge,Massachusetts,United States,42.26970957,-70.75912275,,MA-MinotsLedge,NO-UPDATE
+MA-Monomoy_(ashore),Monomoy (ashore),Massachusetts,United States,41.55880434,-69.99063812,Geolocated near the Monomoy Lighthouse,Monomoy (ashore),UPDATE
+MA-MonomoyPoint,Monomoy Point,Massachusetts,United States,41.54390364,-70.00793416,,Monomoy Point,UPDATE
+MA-Nantucket,Nantucket,Massachusetts,United States,41.28381549,-70.09721003,,MA-Nantucket,UPDATE
+MA-Nantucket_(off),Nantucket (off),Massachusetts,United States,41.22168147,-69.93764867,,Off Nantucket,UPDATE
+VA-Manchester,Manchester,Virginia,United States,37.52511695,-77.4289558,,Manchester,UPDATE
+MA-NewBedford,New Bedford,Massachusetts,United States,41.63458139,-70.92417748,,MA-NewBedford,NO-UPDATE
+MA-Newburyport,Newburyport,Massachusetts,United States,42.81202697,-70.87207439,,MA-Newburyport,UPDATE - COMBINE
+MA-Newburyport,Newburyport,Massachusetts,United States,42.81202697,-70.87207439,,Newburyport,UPDATE - COMBINE
+PH-Manilla,Manilla,NULL,Philippines,14.59480791,120.9779501,,Manilla,UPDATE
+MA-Pembroke,Pembroke,Massachusetts,United States,42.07238765,-70.80926484,,MA-Pembroke,UPDATE - COMBINE
+MA-Pembroke,Pembroke,Massachusetts,United States,42.07238765,-70.80926484,,Penbrooke,UPDATE - COMBINE
+MA-Provincetown,Provincetown,Massachusetts,United States,42.05314784,-70.18425698,,Provincetown,UPDATE
+NS-Maitland,Maitland,Nova Scotia,Canada,45.31805555,-63.4975688,,Martland,UPDATE - COMBINE
+Maryland slip,,,,NEW -- TO EDIT,,Vague: Unknown location,Maryland slip,UNKNOWN_LOC
+MA-Salem,Salem,Massachusetts,United States,42.52145979,-70.88707367,,MA-Salem,NO-UPDATE
+MA-Salem,Salem,Massachusetts,United States,42.52145979,-70.88707367,,Salem,UPDATE
+MA-Sandwich,Sandwich,Massachusetts,United States,41.75797352,-70.50020442,,MA-Sandwich,UPDATE
+MA-Scituate_(ashore),Scituate (ashore),Massachusetts,United States,42.20344625,-70.71285546,Geolocated near the Scituate Lighthouse,MA-Scituate (ashore off Scituate),UPDATE
+MA-Somerset,Somerset,Massachusetts,United States,41.76773901,-71.12896016,,MA-Somerset,UPDATE - COMBINE
+MA-Somerset,Somerset,Massachusetts,United States,41.76773901,-71.12896016,,MA-Somersett,UPDATE - COMBINE
+MA-Somerset,Somerset,Massachusetts,United States,41.76773901,-71.12896016,,Somerset,UPDATE - COMBINE
+MA-Somerset,Somerset,Massachusetts,United States,41.76773901,-71.12896016,,Sommerset,UPDATE - COMBINE
+MA-Somerset,Somerset,Massachusetts,United States,41.76773901,-71.12896016,,Sommersett,UPDATE - COMBINE
+MA-SouthWellfleet,South Wellfleet,Massachusetts,United States,41.9170114,-69.98847358,,MA-SouthWellfleet,NO-UPDATE
+CU-Matanzas,Matanzas,NULL,Cuba,23.04594605,-81.57329186,,Matanzas,UPDATE
+MA-Taunton,Taunton,Massachusetts,United States,41.9018568,-71.09219097,,Taunton,UPDATE
+MA-VinyardSound_PowderHoleHarbor,Powder Hole Harbor in Vinyard Sound,Massachusetts,United States,41.42182664,-70.8251099,"""Powder Hole Harbor, Vinyard Sount (ashore on the flats)""; point located in Vinyard Sound","Powder Hole Harbor, Vinyard Sount (ashore on the flats)",UPDATE
+MA-Wareham,Wareham,Massachusetts,United States,41.76011383,-70.71775411,,MA-Wareham,UPDATE - COMBINE
+MA-Wareham,Wareham,Massachusetts,United States,41.76011383,-70.71775411,,Wareham,UPDATE - COMBINE
+MD-Baltimore,Baltimore,Maryland,United States,39.28653498,-76.61359557,,MD-Balt,UPDATE - COMBINE
+MD-Baltimore,Baltimore,Maryland,United States,39.28653498,-76.61359557,,MD-Baltimore,UPDATE - COMBINE
+MD-Baltimore_(below),Baltimore (below),Maryland,United States,39.20785096,-76.51680931,Geolocated in the mouth of the Patapsco River near Sparrows Point,MD-Baltimore Below,UPDATE
+MD-Baltimore_(below),Baltimore (below),Maryland,United States,39.20785096,-76.51680931,Geolocated in the mouth of the Patapsco River near Sparrows Point,of and from Baltimore,UPDATE - COMBINE
+MD-Berlin,Berlin,Maryland,United States,39.31345671,-77.6296748,,MD-Berlin,NO-UPDATE
+MD-BigSpringMills,Big Spring Mills,Maryland,United States,39.62132964,-77.9377974,,MD-BigSpringMills,NO-UPDATE
+MD-Boonsboro,Boonsboro,Maryland,United States,39.50624143,-77.65245587,,MD-Boonsboro,NO-UPDATE
+MD-Burkettsville,Burkettsville,Maryland,United States,39.39396098,-77.62955569,,MD-Burkettsville,NO-UPDATE
+MD-CedarPoint,Cedar Point,Maryland,United States,39.0654622,-77.32879122,"Point located in the vicinity of Violette's lock, in the vicinity of where Cedar Point quarry was located.",Cedar Point,UPDATE - COMBINE
+MD-CedarPoint,Cedar Point,Maryland,United States,39.0654622,-77.32879122,"Point located in the vicinity of Violette's lock, in the vicinity of where Cedar Point quarry was located.",MD-CedarPoint,UPDATE - COMBINE
+MD-ChesapeakeHead,Head of the Chesapeake Bay,Maryland,United States,39.54757728,-76.03967037,,MD-ChesapeakeHead,NO-UPDATE
+MD-ClearSpring,Clear Spring,Maryland,United States,39.65612631,-77.93182058,,MD-ClearSpring,NO-UPDATE
+MD-Cobb Neck,Cobb Neck,Maryland,United States,38.34117453,-76.91800146,,Cobb-Neck,UPDATE - COMBINE
+MD-CobbNeck,Cobb Neck,Maryland,United States,38.34117453,-76.91800146,,Cob Neck,UPDATE - COMBINE
+MD-CobbNeck,Cobb Neck,Maryland,United States,38.34117453,-76.91800146,,Cobb Neck,UPDATE - COMBINE
+MD-CobbNeck,Cobb Neck,Maryland,United States,38.34117453,-76.91800146,,MD-Cobb Neck,UPDATE - COMBINE
+MD-CobbPoint,Cobb Point,Maryland,United States,38.25683889,-76.84154975,,Cobb Point,UPDATE
+MD-ConradsFerry,Conrads Ferry,Maryland,United States,39.15459378,-77.51968219,,MD-ConradsFerry,NO-UPDATE
+MD-Cumb,Cumberland,Maryland,United States,39.64824539,-78.76345138,,MD-Cumb,NO-UPDATE
+MD-EasternShore,Eastern Shore,Maryland,United States,37.98146958,-75.93132854,Unknown location. Geolocated point in Tangier Sound.,MD-EasternShore,UPDATE
+MD-EdwardsFerry,Edwards Ferry,Maryland,United States,39.10310774,-77.47352752,,MD-EdwardsFerry,NO-UPDATE
+MD-Farmington,Farmington,Maryland,United States,38.69446182,-77.0137823,,Farmington,UPDATE - COMBINE
+MD-Farmington,Farmington,Maryland,United States,38.69446182,-77.0137823,,MD-Farmington,UPDATE - COMBINE
+MD-Glymont,Glymont,Maryland,United States,38.60949776,-77.14138727,,MD-Glymont,NO-UPDATE
+MD-Hancock,Hancock,Maryland,United States,39.69935903,-78.18195178,,MD-Hancock,NO-UPDATE
+MD-HavredeGrace,Havre De Grace,Maryland,United States,39.54359721,-76.08794418,,MD-Havre,UPDATE - COMBINE
+MD-HavredeGrace,Havre De Grace,Maryland,United States,39.54359721,-76.08794418,,MD-HavredeGrace,UPDATE - COMBINE
+MD-Keedysville,Keedysville,Maryland,United States,39.48621704,-77.70052358,,MD-Keedysville,NO-UPDATE
+MD-Knoxville,Knoxville,Maryland,United States,39.32724359,-77.66532459,,MD-Knoxville,NO-UPDATE
+MD-LittleOrleans,Little Orleans,Maryland,United States,39.62613885,-78.38611762,,MD-LittleOrleans,NO-UPDATE
+MD-Maddox,Maddox,Maryland,United States,38.33277894,-76.81186446,,MD-Maddox,NO-UPDATE
+MD-Mattawoman,Mattawoman,Maryland,United States,38.56604692,-77.20551123,,Mattawoman,UPDATE - COMBINE
+MD-Mattawoman,Mattawoman,Maryland,United States,38.56604692,-77.20551123,,MD-Mattawoman,UPDATE - COMBINE
+MD-Mercersville,Mercersville,Maryland,United States,39.49712425,-77.76449986,,MD-Mercersville,NO-UPDATE
+MD-Mercersville,Marcersville,Maryland,United States,39.49914509,-77.76686929,,Mercersville,UPDATE
+MD-MillstonePoint,Millstone point,Maryland,United States,39.67958395,-78.09127281,,MD-MillstonePoint,UPDATE
+MD-Nanjemoy,Nanjemoy,Maryland,United States,38.41944414,-77.19649264,,MD-CharlesCounty,UPDATE - COMBINE
+MD-Nanjemoy,Nanjemoy,Maryland,United States,38.41944414,-77.19649264,,MD-Nanjemoy,UPDATE - COMBINE
+MD-Nanjemoy,Nanjemoy,Maryland,United States,38.41944414,-77.19649264,,Nanjemoy,UPDATE - COMBINE
+MD-NanjemoyBeach_(ashore),"Poplers, Nanjemoy Beach (ashore)",Maryland,United States,38.40909648,-77.09062148,,"Poplers, Nanjemoy Beach (ashore)",UPDATE
+MD-NanjemoyCreek,Nanjemoy Creek,Maryland,United States,38.44617734,-77.11392556,Geolocated in Nanjemoy Creek near Compton,Nanjemoy Creek,UPDATE - COMBINE
+MD-NanjemoyCreek,Nanjemoy Creek,Maryland,United States,38.44617734,-77.11392556,Geolocated in Nanjemoy Creek near Compton,NanjemoyCreek,UPDATE - COMBINE
+MD-NolandsFerry,Nolands Ferry,Maryland,United States,39.25056629,-77.48352274,,MD-NolandsFerry,NO-UPDATE
+MD-OldTown,Oldtown,Maryland,United States,39.54183422,-78.61149416,,MD-OldTown,NO-UPDATE
+MD-Parkhead,Parkhead,Maryland,United States,39.66069258,-78.0586058,,MD-Parkhead,UPDATE
+MD-Patuxent,Patuxent,Maryland,United States,38.51577312,-76.66987285,"Geolocated in the Patuxent River in the vicinity of Patuxent, MD",Patuxen,UPDATE - COMBINE
+MD-Patuxent,Patuxent,Maryland,United States,38.51577312,-76.66987285,"Geolocated in the Patuxent River in the vicinity of Patuxent, MD",Patuxent,UPDATE - COMBINE
+MD-Patuxent,Patuxent,Maryland,United States,38.51577312,-76.66987285,"Geolocated in the Patuxent River in the vicinity of Patuxent, MD",Pawtucket,UPDATE - COMBINE
+MD-Piscataway,Piscataway,Maryland,United States,38.70058838,-76.97378747,,MD-Piscataway,UPDATE - COMBINE
+MD-Piscataway,Piscataway,Maryland,United States,38.70058838,-76.97378747,,Piscataway,UPDATE - COMBINE
+MD-PiscatawayCreek,Piscataway Creek,Maryland,United States,38.69752362,-77.0020211,Geolocated in the tidewater portion of Piscataway Creek,Piscataway Creek,UPDATE
+MD-Pomonkey,Pomonkey,Maryland,United States,38.63536426,-77.10978969,,MD-Pomonkey,NO-UPDATE
+MD-PopesCreek,Popes Creek,Maryland,United States,38.39695958,-76.98837421,,Popes Creek,UPDATE - COMBINE
+MD-PopesCreek,Popes Creek,Maryland,United States,38.39695958,-76.98837421,,Pope's Creek,UPDATE - COMBINE
+MD-PortDeposit,Port Deposit,Maryland,United States,39.60490577,-76.11542469,,MD-PortDeposit,NO-UPDATE
+MD-PortTobacco,Port Tobacco,Maryland,United States,38.51114772,-77.01992655,,MD-PortTobacco,NO-UPDATE
+MD-PotomacRiver_(mouth),Potomac River (mouth),Maryland,United States,37.99369357943833-76.31515988271036,-76.31515988,,Potomac River (mouth),UPDATE
+MD-PotomacView,Potomac View,Maryland,United States,38.28165235,-76.88986071,,Potomac View,UPDATE
+MD-SandyHook,Sandy Hook,Maryland,United States,39.32623915,-77.7069077,,MD-SandyHook,NO-UPDATE
+MD-SevernRiver,Severn River,Maryland,United States,39.01626838,-76.52081792,Point located on the Severn River upriver from the US-50 bridge,Severn River,UPDATE
+MD-Sharpsburg,Sharpsburg,Maryland,United States,39.45824659,-77.74874803,,MD-Sharpsburg,NO-UPDATE
+MD-SmithsIsland,Smith's Island,Maryland,United States,37.99456852,-76.03073564,,Smith's Island,UPDATE
+MD-SnowHill,Snowhill,Maryland,United States,38.17712344,-75.39299745,,MD-SnowHill,UPDATE
+MD-StMarys,St. Marys,Maryland,United States,38.18733066,-76.4343548,,MD-StMarys,NO-UPDATE
+MD-StMarys,St. Marys,Maryland,United States,38.18733066,-76.4343548,,St. Mary's,UPDATE
+MD-SusquehannaRiver,Susquehanna River,Maryland,United States,39.59946006,-76.12098207,"Point located in the Susquehanna River near Port Deposit, MD",Susquehanna,UPDATE
+MD-TangiersSound,Tangier's Sound,Maryland,United States,37.99862586,-75.94216548,,Trangier's Sound,UPDATE
+MD-UpperCedarPoint,Upper Cedar Point,Maryland,United States,38.40775165,-77.09129093,,"Upper Cedar Point, Potomac River (ashore)",UPDATE
+MD-Vienna,Vienna,Maryland,United States,38.48452466,-75.82462327,,MD-Vienna,UPDATE
+MD-Vienna,Vienna,Maryland,United States,38.48452466,-75.82462327,,Vienna,UPDATE - COMBINE
+MD-WadesBay,Wades Bay,Maryland,United States,38.43176839,-77.25844998,,Wade's Bay,UPDATE
+MD-Weaverton,Weaverton,Maryland,United States,39.33002513,-77.68150584,,MD-Weaverton,NO-UPDATE
+MD-WeavKnox,Weaverton-Knoxville,Maryland,United States,39.329492,-77.676723,,MD-WeavKnox,NO-UPDATE
+MD-Wicomico,Wicomico,Maryland,United States,38.38832068,-76.8722085,,MD-Wicomico,NO-UPDATE
+MD-Wicomico,Wicomico,Maryland,United States,38.38832068,-76.8722085,,Wicomico,UPDATE - COMBINE
+MD-Wicomico,Wicomico,Maryland,United States,38.38832068,-76.8722085,,Wecomico,UPDATE - COMBINE
+MD-Wicomico,Wicomico,Maryland,United States,38.38832068,-76.8722085,,Wycomico,UPDATE - COMBINE
+MD-WicomicoRiver,Wicomico River,Maryland,United States,38.27476507,-76.82102807,Geolocated at the mouth of the Wicomico River,WicomicoRiver,UPDATE
+MD-Williamsport,Williamsport,Maryland,United States,39.60046367,-77.82132165,,MD-Williamsport,NO-UPDATE
+ME,,Maine,United States,43.57545614,-70.1235996,"Geolocated point off the coast of Portland, Maine",ME,UPDATE
+ME-Augusta,Augusta,Maine,United States,44.31051669,-69.77926721,,ME-Augusta,UPDATE
+ME-Bangor,Bangor,Maine,United States,44.8016236,-68.7713375,,ME-Bangor,NO-UPDATE
+ME-Bath,Bath,Maine,United States,43.91276603,-69.81414405,,ME-Bath,UPDATE
+ME-Beverly,,,,NEW -- TO EDIT,,Is this MA instead of ME??,ME-Beverly,UNKNOWN_LOC
+ME-BlueHill,Blue Hill,Maine,United States,44.41316462,-68.58805304,,ME-Bluebill,UPDATE
+ME-Bucksport,Bucksport,Maine,United States,44.63100389,-68.83362023,,ME-Bucksport,NO-UPDATE
+ME-Calais,Calais,Maine,United States,45.1889434,-67.27814255,,Calais,UPDATE - COMBINE
+ME-Calais,Calais,Maine,United States,45.1889434,-67.27814255,,ME-Cailais,UPDATE - COMBINE
+ME-Calais,Calais,Maine,United States,45.1889434,-67.27814255,,ME-Calais,UPDATE - COMBINE
+ME-Camden,Camden,Maine,United States,44.20979701,-69.06486048,,Camden,UPDATE - COMBINE
+ME-Camden,Camden,Maine,United States,44.20979701,-69.06486048,,ME-Camden,UPDATE
+ME-Eastport,Eastport,Maine,United States,44.90664988,-66.98513791,,ME-Eastport,NO-UPDATE
+ME-Gardiner,Gardiner,Maine,United States,44.22973373,-69.77112899,,ME-Gardiner,UPDATE
+ME-Kennebunkport,Kennebunkport,Maine,United States,43.36263146,-70.47581814,,Kennebunkport,UPDATE
+ASTL-Melbourne,Melbourne,Victoria,Australia,-37.81949121,144.9599385,,Melbourne,UPDATE
+ME-Lubec,Lubec,Maine,United States,44.85837587,-66.98348196,,Lubec,UPDATE - COMBINE
+ME-Lubec,Lubec,Maine,United States,44.85837587,-66.98348196,,ME-Lubec,UPDATE - COMBINE
+ME-Machias,Machias,Maine,United States,44.71499842,-67.46168391,,Machias,UPDATE
+ME-Portland,Portland,Maine,United States,43.65658599,-70.25316232,,ME-Portland,NO-UPDATE
+ME-Portland,Portland,Maine,United States,43.65658599,-70.25316232,,Portland,UPDATE - COMBINE
+ME-Rockland,Rockland,Maine,United States,44.10331264,-69.10679603,,ME-Rockland,UPDATE
+ME-Rockland,Rockland,Maine,United States,44.10331264,-69.10679603,,Rockland,UPDATE - COMBINE
+ME-Rockport,Rockport,Maine,United States,44.18782004,-69.0737523,,ME-Rockport,UPDATE
+ME-Rockport,Rockport,Maine,United States,44.18782004,-69.0737523,,Rockport,UPDATE - COMBINE
+IT-Messina,Messina,NULL,Italy,38.19268994,15.55679041,,Messina,UPDATE
+ME-StGeorge,St. George,Maine,United States,44.01626422,-69.19893412,,ME-StGeorge,NO-UPDATE
+ME-StGeorge,St. George,Maine,United States,44.01626422,-69.19893412,,St. George,UPDATE - COMBINE
+ME-TenantsHarbor,Tenant's Harbor,Maine,United States,43.96643799,-69.20957056,,Tenant's Harbor,UPDATE
+ME-Thomaston,Thomaston,Maine,United States,44.07892751,-69.18266282,,ME-Thomaston,UPDATE - COMBINE
+ME-Thomaston,Thomaston,Maine,United States,44.07892751,-69.18266282,,Thomaston,UPDATE - COMBINE
+ME-Tremont,Tremont,Maine,United States,44.25396614,-68.35201927,,Tremont,UPDATE
+ME-VinalHaven,Vinalhaven,Maine,United States,44.04740027,-68.83516533,,ME-VinalHaven,UPDATE
+ME-Wiscasset,Wiscasset,Maine,United States,44.00284612,-69.66589448,,Wiscasset,UPDATE
+VA-MiddleGround_(reef),Middle Ground (reef),Virginia,United States,37.03714351,-76.0421546,reef located between Cape Charles and Cape Henry,Middle Ground (Near Cape Charles),UPDATE - COMBINE
+VA-MiddleGround_(reef),Middle Ground (reef),Virginia,United States,37.03714351,-76.0421546,reef located between Cape Charles and Cape Henry,Middle Ground (off Cape Charles),UPDATE - COMBINE
+CT-Middletown,Middletown,Connecticut,United States,41.56232588,-72.65097855,"most likely Middletown, CT",Middleton,UPDATE - COMBINE
+CT-Middletown,Middletown,Connecticut,United States,41.56232588,-72.65097855,"most likely Middletown, CT",Middletown,UPDATE - COMBINE
+MLTA,NULL,NULL,Malta,35.9091875,14.50370064,Geolocated near the Sliema waterfront in Malta,Malta,UPDATE
+Moore's Landing,,,,NEW -- TO EDIT,,Vague: Unknown location,Moore's Landing,UNKNOWN_LOC
+NY-Morrisania,Morrisania,New York,United States,40.80698946,-73.90247607,,Morrisiana,UPDATE - COMBINE
+NY-Morrisania,Morrisania,New York,United States,40.80698946,-73.90247607,,Morrisianna,UPDATE - COMBINE
+Mothershead,,,,NEW -- TO EDIT,,Vague: Unknown location,Mothershead,UNKNOWN_LOC
+RI-MountHopeBay,Mount Hope Bay,Rhode Island,United States,41.67765072,-71.21090481,,Mount Hope Bay,UPDATE
+Murdock,,,,NEW -- TO EDIT,,Vague: Unknown location,Murdock,UNKNOWN_LOC
+MX-Cardenas,Cardenas,Tabasco,Mexico,17.99919019,-93.37540904,,Cardanas,UPDATE - COMBINE
+MX-Cardenas,Cardenas,Tabasco,Mexico,17.99919019,-93.37540904,,Cardenas,UPDATE - COMBINE
+MX-Cardenas,Cardenas,Tabasco,Mexico,17.99919019,-93.37540904,,Cardines,UPDATE - COMBINE
+MX-Cardenas,Cardenas,Tabasco,Mexico,17.99919019,-93.37540904,,MX-Cardenas,UPDATE
+MX-Minatitlán,Minatitlán,Veracruz,Mexico,17.97991702,-94.54392908,,MX-Manatillan,UPDATE
+MX-Sisal,Sisal,Yucatan,Mexico,21.16605166,-90.03169899,,Yucatan-Sisal,UPDATE
+NB-StJohn,St. John,New Brunswick,Canada,45.27121775,-66.06245065,,NB-StJohn,UPDATE - COMBINE
+NB-StJohn,St. John,New Brunswick,Canada,45.27121775,-66.06245065,,NB-StJohns,UPDATE - COMBINE
+NB-StJohn,St. John,New Brunswick,Canada,45.27121775,-66.06245065,,NS-StJohns,UPDATE
+NC,NULL,North Carolina,United States,35.20679165,-76.26889768,Point located in the center of Pamlico Sound. Unknown port.,NC,NO-UPDATE
+NC-Barrington,,,,NEW -- TO EDIT,,,NC-Barrington,UNKNOWN_LOC
+NC-Bartonsville,,,,NEW -- TO EDIT,,,NC-Bartonsville,UNKNOWN_LOC
+NC-Beaufort,Beaufort,North Carolina,United States,34.71712445,-76.66597264,,NC-Beaufort,UPDATE
+NC-CapeFear_(ashore),Cape Fear (ashore),North Carolina,United States,33.84509707,-77.96727063,"""Ashore near Cape Fear""",Ashore near Cape Fear,UPDATE
+NC-CapeHatteras,Cape Hatteras,North Carolina,United States,35.2069304,-75.49913114,Geolocated off of Cape Hatteras,Cape Hattaras,UPDATE
+NC-CarolinaCity,Carolina City,North Carolina,United States,34.72365188,-76.74111599,,Carolina City,UPDATE
+NC-Columbia,Columbia,North Carolina,United States,35.91760573,-76.25295219,,NC-Columbia,NO-UPDATE
+NC-Conwayboro,,,,NEW -- TO EDIT,,,NC-Conwayboro,UNKNOWN_LOC
+NC-CurrituckBeach,Currituck Beach,North Carolina,United States,36.38192718,-75.82495988,,Currituck Beach,UPDATE
+NC-Douglass,,,,NEW -- TO EDIT,,,NC-Douglass,UNKNOWN_LOC
+NC-Edenton,Edenton,North Carolina,United States,36.05701512,-76.60949883,,NC-Edenton,NO-UPDATE
+NC-ElizabethCity,Elizabeth City,North Carolina,United States,36.2995836,-76.21878081,,NC-ElizabethCity,UPDATE
+NC-Georgetown,,,,NEW -- TO EDIT,,,NC-Georgetown,UNKNOWN_LOC
+NC-Hamilton,Hamilton,North Carolina,United States,35.94417714,-77.20893188,,NC-Hamilton,UPDATE
+NC-Hatteras,Hatteras,North Carolina,United States,35.24827146,-75.53297238,,NC-Hatteras,UPDATE
+NC-Hertford,Hertford,North Carolina,United States,36.19000954,-76.46544335,,NC-Hertford,UPDATE
+NC-JerseyCity,,,,NEW -- TO EDIT,,,NC-JerseyCity,UNKNOWN_LOC
+NC-Leechville,Leechville,North Carolina,United States,35.57080014,-76.50301234,,NC-Leechville,UPDATE
+NC-LittleRiver,Little River ,North Carolina,United States,36.18537988,-76.27070777,Geolocated in the Little River near Nixtonton,NC-LittleRiver,UPDATE
+NC-MeherrinRiver,Meherrin River,North Carolina,United States,36.43654532,-76.95278268,Geolocated near the mouth of Meherrin River,NC-MehernRiver,UPDATE
+NC-MoreheadCity,Morehead City,North Carolina,United States,34.72107258,-76.70982035,,NC-MoreheadCity,UPDATE
+NC-NewBern,New Bern,North Carolina,United States,35.10473632,-77.03865971,,NC-NewBern,NO-UPDATE
+NC-OcracokeIsland_(ashore),Ocracoke Island (ashore),North Carolina,United States,35.10636811,-75.95880146,,Ocracoke (ashore),UPDATE
+NC-OldTown,,,,NEW -- TO EDIT,,,NC-OldTown,UNKNOWN_LOC
+NC-Pantego,Pantego,North Carolina,United States,35.5889909,-76.66231925,,NC-Pantego,UPDATE
+NC-Plymouth,Plymouth,North Carolina,United States,35.86717095,-76.75092173,,NC-Plymouth,UPDATE
+NC-RoanokeRiver,Roanoke River,North Carolina,United States,35.94109706,-76.69572747,"Point located at the mouth of the Roanoke River, downriver from Plymouth, NC",Roanoke River,UPDATE
+NC-Salsbury,,,,NEW -- TO EDIT,,,NC-Salsbury,UNKNOWN_LOC
+NC-Swansboro,Swansboro,North Carolina,United States,34.68792158,-77.11751609,,NC-Swansboro,UPDATE
+NC-Washington,Washington,North Carolina,United States,35.54203191,-77.05510669,,NC-Washington,NO-UPDATE
+NC-Williamston,Williamston,North Carolina,United States,35.85908548,-77.04175072,,NC-Williamston,UPDATE
+NC-Wilmington,Wilmington,North Carolina,United States,34.23557554,-77.94604726,,NC-Wilmington,NO-UPDATE
+NF,,New Foundland,Canada,47.56463597,-52.67596535,"Geolocated near St. Johns, NF",New Foundland,UPDATE
+NF-StJohns,St. Johns,New Foundland,Canada,47.56619752,-52.70487938,,NF-StJohns,UPDATE
+NH-Portsmouth,Portsmouth,New Hampshire,United States,43.07759777,-70.75329558,,NH-Portsmouth,UPDATE
+NJ,,New Jersey,United States,39.93533813,-74.03938434,Geolocated off the coast of Toms River,NJ,UPDATE
+NJ-AtlanticCity,Atlantic City,New Jersey,United States,39.36058015,-74.43186135,,NJ-AtlanticCity,UPDATE
+NJ-BackCreek,Back Creek,New Jersey,United States,39.30020558,-75.28204939,Point located at the mouth of Back Creek in southern New Jersey,NJ-BackCreek,NO-UPDATE
+NJ-Bordentown,Bordentown,New Jersey,United States,40.1486676,-74.71373494,,NJ-Bordentown,UPDATE
+NJ-CapeMay,Cape May,New Jersey,United States,38.93299441,-74.92377571,,NJ-CapeMay,UPDATE
+NJ-Elizabethport,Elizabethport,New Jersey,United States,40.64795367,-74.18776731,,Elizabethport,UPDATE
+NJ-GreatEggHarbor,Great Egg Harbor,New Jersey,United States,39.29575351,-74.6050884,,G. Egg Harbor,UPDATE - COMBINE
+NJ-GreatEggHarbor,Great Egg Harbor,New Jersey,United States,39.29575351,-74.6050884,,Great Egg Harbor,UPDATE - COMBINE
+NJ-Hackensack,Hackensack,New Jersey,United States,40.87846887,-74.04454118,,NJ-Hackensack,NO-UPDATE
+NJ-JerseyCity,Jersey City,New Jersey,United States,40.71532821,-74.03766665,,NJ-JerseyCity,NO-UPDATE
+NJ-LittleEggHarbor,Little Egg Harbor,New Jersey,United States,39.57647414,-74.33703806,"Geolocated near the waterway leading from Tuckerton, NJ",Little Eggharbor,UPDATE
+NJ-LowerBank,Lower Bank,New Jersey,United States,39.59444998,-74.54946662,,NJ-LowerBank,NO-UPDATE
+NJ-Morristown,Morristown,New Jersey,United States,40.79658894,-74.48158198,,NJ-Morristown,NO-UPDATE
+NJ-Newark,Newark,New Jersey,United States,40.73556068,-74.17202933,,NJ-Newark,NO-UPDATE
+NJ-PerthAmboy,Perth Amboy,New Jersey,United States,40.50781956,-74.26531517,,Amboy,UPDATE
+NJ-PerthAmboy,Perth Amboy,New Jersey,United States,40.50781956,-74.26531517,,Perth Amboy,UPDATE
+NJ-SquanBeach,Squan Beach,New Jersey,United States,40.11386086,-74.03222628,,Squan Beach (outer bar),UPDATE
+NJ-Trenton,Trenton,New Jersey,United States,40.21906256,-74.768504,,NJ-Trenton,UPDATE
+NJ-Tuckerton,Tuckerton,New Jersey,United States,39.60331569,-74.3401627,,Tuckerton,UPDATE
+NJ-Waretown,Waretown,New Jersey,United States,39.79093701,-74.19200028,,NJ-Waretown,UPDATE
+NL-Rotterdam,Rotterdam,NULL,Netherlands,51.91759037,4.480840799,,Roterdam,UPDATE - COMBINE
+NL-Rotterdam,Rotterdam,NULL,Netherlands,51.91759037,4.480840799,,Rotterdam,UPDATE - COMBINE
+No Point (North Point?),,,,NEW -- TO EDIT,,Vague: Unknown location,No Point (North Point?),UNKNOWN_LOC
+North River,,,,NEW -- TO EDIT,,Vague: Unknown location,North River,UNKNOWN_LOC
+Northampton,,,,NEW -- TO EDIT,,Vague: Unknown location,Northampton,UNKNOWN_LOC
+NS,NULL,Nova Scotia,Canada,44.54000959,-63.46161261,"Geolocated near Halifax, NS",Nova Scotia,UPDATE - COMBINE
+NS,NULL,Nova Scotia,Canada,44.54000959,-63.46161261,"Geolocated near Halifax, NS",NS,UPDATE - COMBINE
+NS-Cornwallis,Cornwallis,Nova Scotia,Canada,45.15931981,-64.36139925,,NS-Cornwallis,UPDATE
+NS-Halifax,Halifax,Nova Scotia,Canada,44.64822147,-63.57452143,,HS-Halifax,UPDATE - COMBINE
+NS-Halifax,Halifax,Nova Scotia,Canada,44.64822147,-63.57452143,,NS-Halifax,UPDATE - COMBINE
+NS-Maitland,Maitland,Nova Scotia,Canada,45.31805555,-63.4975688,,NS-Maitland,NO-UPDATE
+NS-Windsor,Windsor,Nova Scotia,Canada,44.99521518,-64.13882378,,NS-Windsor,UPDATE - COMBINE
+NS-Windsor,Windsor,Nova Scotia,Canada,44.99521518,-64.13882378,,NS-Winsor,UPDATE - COMBINE
+NS-Windsor,Windsor,Nova Scotia,Canada,44.99521518,-64.13882378,,Windsor,UPDATE
+NS-Yarmouth,Yarmouth,Nova Scotia,Canada,43.8378781,-66.11967249,,NS-Yarmouth,UPDATE
+NS-Yarmouth,Yarmouth,Nova Scotia,Canada,43.8378781,-66.11967249,,Yarmouth,UPDATE
+NY-Albany,Albany,New York,United States,42.64982054,-73.75271914,,NY-Albany,NO-UPDATE
+NY-Brookhaven,Brookhaven,New York,United States,40.94731294,-73.06932803,Point located at Port Jefferson.,NY-Brookhaven,NO-UPDATE
+NY-Brooklyn,Brooklyn,New York,United States,40.69381718,-73.99891619,,NY-Brooklyn,UPDATE
+NY-Catskill,Catskill,New York,United States,42.21045969,-73.85401219,,NY-Catskill,UPDATE
+NY-ColdSpring,Cold Spring,New York,United States,41.41610352,-73.96110954,,NY-ColdSpring,UPDATE
+NY-FireIsland,Fire Island,New York,United States,40.6308103,-73.2207221,,NY-FireIsland,NO-UPDATE
+NY-Harlem,Harlem,New York,United States,40.802814,-73.93355372,,NY-Harlem,UPDATE
+NY-Hudson,Hudson,New York,United States,42.25643371,-73.79586544,,NY-Hudson,UPDATE
+NY-MontaukPoint_(ashore),Montauk Point (ashore),New York,United States,41.07050207,-71.85728373,,LI-MontaukPoint (ashore),UPDATE
+NY-Newburgh,Newburgh,New York,United States,41.50314945,-74.00638965,,Newberg,UPDATE - COMBINE
+NY-Newburgh,Newburgh,New York,United States,41.50314945,-74.00638965,,NY-Newburg,UPDATE - COMBINE
+NY-Newburgh,Newburgh,New York,United States,41.50314945,-74.00638965,,NY-Newburgh,UPDATE - COMBINE
+NY-NewYork,New York,New York,United States,40.71198989,-74.00814363,,NY-NewYork,UPDATE - COMBINE
+NY-NewYork,New York,New York,United States,40.71198989,-74.00814363,,NY-NYC,UPDATE - COMBINE
+NY-NewYork_(below),New York (below),New York,United States,40.57343126,-74.04017244,"Geolocated in the mouth of the Hudson River, near Gravesend Bay",New York (below),UPDATE - COMBINE
+NY-NewYork_(below),New York (below),New York,United States,40.57343126,-74.04017244,"Geolocated in the mouth of the Hudson River, near Gravesend Bay",NewYork-Below,UPDATE - COMBINE
+NY-Peekskill,Peekskill,New York,United States,41.28886595,-73.92997275,,NY-Peekskill,UPDATE
+NY-Piermont,Piermont,New York,United States,41.04140809,-73.91640311,,Piermont,UPDATE - COMBINE
+NY-Piermont,Piermont,New York,United States,41.04140809,-73.91640311,,Piermont-NY,UPDATE - COMBINE
+NY-Pouhkeepsie,Poughkeepsie,New York,United States,41.70555843,-73.93912319,,NY-Pouhkeepsie,UPDATE
+NY-Rhinebeck,Rhinebeck,New York,United States,41.92688489,-73.91262203,,Rhinebeck,UPDATE
+NY-Roundout,Roundout,New York,United States,41.91992164,-73.97978538,,NY-Roundout,NO-UPDATE
+NY-Saugerties,Saugerties,New York,United States,42.07374736,-73.95054704,,Sangterees,UPDATE - COMBINE
+NY-Saugerties,Saugerties,New York,United States,42.07374736,-73.95054704,,Saugerties,UPDATE - COMBINE
+NY-Saugerties,Saugerties,New York,United States,42.07374736,-73.95054704,,Saugreties,UPDATE - COMBINE
+NY-Singsing,Singsing,New York,United States,41.15888017,-73.86867486,,NY-SingSing,UPDATE
+NY-StatenIsland,Staten Island,New York,United States,40.63727172,-74.12633925,,NY-StatenIsland,UPDATE
+NY-Troy,Troy,New York,United States,42.72787194,-73.69235429,,NY-Troy,NO-UPDATE
+NY-Yorktown,Yorktown,New York,United States,41.27115847,-73.77834993,,NY-Yorktown,UPDATE
+Off Santa Cruz bound in,,,,NEW -- TO EDIT,,,Off Santa Cruz bound in,UNKNOWN_LOC
+Old Furnace,,,,EDIT,,Unknown location. Accessible via C&O canal. Perhaps it is Antietam Iron Works but I'm not certain enough to commit.,Old Furnace,UNKNOWN_LOC
+Orizaba,,,,NEW -- TO EDIT,,Unkknown location,Orizaba,UNKNOWN_LOC
+PA-Philly,Philadelphia,Pennsylvania,United States,39.94981305,-75.14374905,,PA-Philly,NO-UPDATE
+PA-PortofRichmond,Port of Richmond,Pennsylvania,United States,39.97908775,-75.09814072,,PA-PortofRichmond,UPDATE
+PE-Callao,Callao,NULL,Peru,-12.05224445,-77.13912463,,Calloa,UPDATE - COMBINE
+PE-Callao,Callao,NULL,Peru,-12.05224445,-77.13912463,,PE-Callao,NO-UPDATE
+PE-Chinchas,Chincha Islands,NULL,Peru,-13.64355391,-76.39779259,,PE-Chincha,UPDATE - COMBINE
+PE-Chinchas,Chincha Islands,NULL,Peru,-13.64355391,-76.39779259,,PE-ChinchaIslands,UPDATE - COMBINE
+PE-Chinchas,Chincha Islands,NULL,Peru,-13.64355391,-76.39779259,,PE-Chinchas,UPDATE - COMBINE
+Plymouth,,,,NEW -- TO EDIT,,Vague location: unknown,Plymouth,UNKNOWN_LOC
+Portsmouth,,,,NEW -- TO EDIT,,Vague location: unknown -- not enough information to go on,Portsmouth,UNKNOWN_LOC
+PR,,,Puerto Rico,18.45215997,-66.11568198,Geolocated in the Bay of San Juan,Porto Rico,UPDATE - COMBINE
+PR,,,Puerto Rico,18.45215997,-66.11568198,Geolocated in the Bay of San Juan,PR,UPDATE - COMBINE
+PR-Guayanilla,Guayanilla,NULL,Puerto Rico,18.01929698,-66.79177096,,PR-Guayanilla,UPDATE - COMBINE
+PR-Mayaguez,Mayaguez,NULL,Puerto Rico,18.20178512,-67.14496756,,Mayaguez,UPDATE - COMBINE
+PR-Mayaguez,Mayaguez,NULL,Puerto Rico,18.20178512,-67.14496756,,PR-Mayaguez,UPDATE - COMBINE
+Prospect,,,,NEW -- TO EDIT,,Vague location: unknown,Prospect,UNKNOWN_LOC
+PR-Ponce,Ponce,NULL,Puerto Rico,18.01099739,-66.61429647,,PR-Ponce,UPDATE
+PR-SanJuan,San Juan,NULL,Puerto Rico,18.46586196,-66.10587306,,PR-SanJuan,UPDATE - COMBINE
+PR-SanJuan,San Juan,NULL,Puerto Rico,18.46586196,-66.10587306,,PR-StJohn,UPDATE - COMBINE
+PT-CapeVerde,Cape Verde,NULL,Portuguese Territory,16.88639322,-24.98731281,Geolocated at Mindelo in the Cape Verde Islands,Cape Verde,UPDATE
+PT-Lisbon,Lisbon,NULL,Portugal,38.70860659,-9.135955647,,Lisbon,UPDATE
+PT-Madeira,Madeira,NULL,Portugal,32.64724691,-16.90550657,,Madeira,UPDATE
+REGION-CaribbeanSea,NULL,NULL,NULL,15.55400527,-70.39081452,Caribbean Sea,Carribean Sea,UPDATE
+REGION-SouthAmerica,NULL,NULL,NULL,0.547533188,-43.74543557,Located point off the northern coast of Brazil,South America,UPDATE
+REGION-WestIndies,West Indies,NULL,NULL,20.51651336,-73.66230761,"Point located between Haiti, Cuba, and Turks islands",West Indies,UPDATE
+RI,,Rhode Island,United States,41.69516034,-71.33406385,Geolocated in the upper portion of Narragansett Bay,RI,UPDATE
+RI-EastGreenwich,East Greenwich,Rhode Island,United States,41.66230081,-71.45006607,,East Greenwich,UPDATE
+RI-Narragansett,Narragansett,Rhode Island,United States,41.43098673,-71.45738775,,RI-Narragansett,UPDATE
+RI-Newport,Newport,Rhode Island,United States,41.49000802,-71.31528121,,RI-Newport,NO-UPDATE
+Rio Grande,,,,NEW -- TO EDIT,,Vague location: unknown,Rio Grande,UNKNOWN_LOC
+RI-Pawtucket,Pawtucket,Rhode Island,United States,41.87726107,-71.38441061,,RI-Pawtucket,UPDATE
+RI-Providence,Providence,Rhode Island,United States,41.82485688,-71.40992124,,RI-Providence,NO-UPDATE
+RI-Providence_(below),Providence (below),Rhode Island,United States,41.68130178,-71.33506693,Point located in the wide mouth of the Providence River,below Providence,UPDATE
+RI-Warwick,Warwick,Rhode Island,United States,41.70250289,-71.38549651,,RI-Warwick,UPDATE
+RI-Wickford_(below),Wickford (below),Rhode Island,United States,41.57524946,-71.44142716,Point located in Wickford Harbor,"Wickford (at anchor, below Wickford)",UPDATE
+Rock Bar,,,,EDIT,,"Unknown location. ""Rock Bar"" is too generic to locate. This obstruction is along the maritime route between NYC and Baltimore.",Rock Bar,UNKNOWN_LOC
+RSA-CapeofGoodHope,Cape of Good Hope,NULL,South Africa,-34.35831299,18.47559892,,Cape of Good Hope,UPDATE
+RSA-CapeofGoodHope_(off),Cape of Good Hope (off),NULL,South Africa,-34.37109916,18.4672042,,off Cape of Good Hope,UPDATE
+Salburg,,,,NEW -- TO EDIT,,Vague location: unknown,Salburg,UNKNOWN_LOC
+Salisbury,,,,NEW -- TO EDIT,,Vague location: unknown,Salisbury,UNKNOWN_LOC
+SC-Charleston,Charleston,South Carolina,United States,32.77647508,-79.93105402,,SC-Charleston,NO-UPDATE
+SC-Georgetown,Georgetown,South Carolina,United States,33.36657958,-79.28360369,,SC-Georgetown,UPDATE
+SCT,NULL,NULL,Scotland,55.54246959,-4.887453572,Geolocated in the Firth of Clyde,Scotland,UPDATE
+SCT-Troon,Troon,South Ayrshire,Scotland,55.54472561,-4.669839736,,Troon,UPDATE
+Sidney,,,,NEW -- TO EDIT,,Check to see if this is Australia's Sydney or another Sidney (Ship Black Sea),Sidney,UNKNOWN_LOC
+Southfield,,,,NEW -- TO EDIT,,,Southfield,UNKNOWN_LOC
+"sunk, run down off the Potomac",,,,NEW -- TO EDIT,,,"sunk, run down off the Potomac",UNKNOWN_LOC
+SVG-StVincent,St. Vincent,NULL,Saint Vincent and the Grenadines,13.25308038,-61.18641188,,St. Vincent,UPDATE
+Swansea,,,,NEW -- TO EDIT,,Unsure if this is Swansea in England or Swansea in Massachusetts,Swansea,UNKNOWN_LOC
+Sweeney's,,,,NEW -- TO EDIT,,Vague location: unknown,Sweeney's,UNKNOWN_LOC
+Swynyard's,,,,NEW -- TO EDIT,,,Swynyard's,UNKNOWN_LOC
+Talliver,,,,NEW -- TO EDIT,,Vague location: unknown,Talliver,UNKNOWN_LOC
+the Southward,,,,NEW -- TO EDIT,,Vague location: unknown,the Southward,UNKNOWN_LOC
+TT,NULL,NULL,Trinidad,10.65672611,-61.50824586,Geolocated at the Port of Spain in Trinidad,Trinidad,UPDATE
+TX-Galveston,Galveston,Texas,United States,29.29330915,-94.79221729,,TX-Galveston,UPDATE
+TX-MatagordaBay,Matagorda Bay,Texas,United States,28.62101361,-96.03230094,,TX-MatagordaBay,UPDATE
+UK-Antigua,,Antigua,United Kingdom,17.12115784,-61.84652686,Geolocated to the port of St. John's in Antigua,Antigua,UPDATE - COMBINE
+UK-Antigua,,Antigua,United Kingdom,17.12115784,-61.84652686,Geolocated to the port of St. John's in Antigua,Antiqua,UPDATE - COMBINE
+UK-Barbados,Bridgetown,Barbados,United Kingdom,13.09672153,-59.61678331,,Barbadoes,UPDATE - COMBINE
+UK-Barbados,Bridgetown,Barbados,United Kingdom,13.09672153,-59.61678331,,Barbados,UPDATE - COMBINE
+UK-Bermuda,,Bermuda,United Kingdom,32.29260621,-64.78194552,Geolocated the port of Hamilton in Bermuda,Bermuda,UPDATE
+UK-Bermuda-Hamilton,Hamilton,Bermuda,United Kingdom,32.29260621,-64.78194552,,Bermuda-Hamilton,UPDATE
+UK-Gibraltar,Gibralter,NULL,United Kingdom,36.13901514,-5.356086653,,Gibraltar,UPDATE
+UK-Grand Turk,Grand Turk,NULL,United Kingdom,21.46942681,-71.14590306,,Grand Turk,UPDATE
+UK-Scilly_(off),Isles of Scilly,NULL,United Kingdom,49.85792213,-6.378783318,,Off Scilly,UPDATE
+UK-Sombrero,Sombrero Island,NULL,United Kingdom,18.58991601,-63.42502561,,Sambro Island,UPDATE - COMBINE
+UK-Sombrero,Sombrero Island,NULL,United Kingdom,18.58991601,-63.42502561,,Sembrera Islands,UPDATE - COMBINE
+UK-Sombrero,Sombrero Island,NULL,United Kingdom,18.58991601,-63.42502561,,Sombrero,UPDATE - COMBINE
+UK-Sombrero,Sombrero Island,NULL,United Kingdom,18.58991601,-63.42502561,,Sombrero Island,UPDATE - COMBINE
+UK-Sombrero,Sombrero Island,NULL,United Kingdom,18.58991601,-63.42502561,,Sombrero Islands,UPDATE - COMBINE
+UK-Sombrero (Passed),Sombrero Island (Passed),NULL,United Kingdom,18.59123563,-63.45391336,,Sombrero (Passed),UPDATE
+UK-TurksIsland,Turks Island,NULL,United Kingdom,21.4333702,-71.14692643,,Turks Island,UPDATE - COMBINE
+UK-TurksIsland,Turks Island,NULL,United Kingdom,21.4333702,-71.14692643,,Turk's Island,UPDATE - COMBINE
+UK-TurksIsland,Turks Island,NULL,United Kingdom,21.4333702,-71.14692643,,TurksIsland,UPDATE - COMBINE
+US-BakerIsland,Baker's Island,U.S. Territory,United States,0.195945307,-176.4791652,,Baker's Island,UPDATE
+US-JarvisIsland,Jarvis Island,U.S. Territory,United States,-0.373276368,-159.9966551,,Jarvis' Island,UPDATE - COMBINE
+US-JarvisIsland,Jarvis Island,U.S. Territory,United States,-0.373276368,-159.9966551,,Jarvis Islands,UPDATE - COMBINE
+US-JohnstonIsland,Johnston Island,U.S. Territory,United States,16.72980998,-169.5337577,"""John's Island""",John's Island,UPDATE - COMBINE
+US-JohnstonIsland,Johnston Island,U.S. Territory,United States,16.72980998,-169.5337577,,Johnstons Islands,UPDATE
+US-MackeanIsland,Mackean Island,U.S. Territory,United States,-3.596278297,-174.1232935,,McKean's Island,UPDATE
+US-MaldenIsland,Malden Island,U.S. Territory,United States,-4.007683943,-154.9194026,,Malden Islands,UPDATE
+US-Navassa,Navassa Island,U.S. Territory,United States,18.40693954,-75.00824026,,Navasa,UPDATE
+UY-Montevideo,Montevideo,NULL,Uruguay,-34.91470517,-56.16282792,,Montevedio,UPDATE - COMBINE
+UY-Montevideo,Montevideo,NULL,Uruguay,-34.91470517,-56.16282792,,Montevideo,UPDATE - COMBINE
+UY-Montevideo,Montevideo,NULL,Uruguay,-34.91470517,-56.16282792,,Montevidio,UPDATE - COMBINE
+VA,NULL,Virginia,United States,37.05798572,-76.15894646,"Point located in the center of the of mouth of the Chesapeake Bay because of the generality of ""Virginia"" as a location.",VA,NO-UPDATE
+VA-Accomack,Accomack County,Virginia,United States,37.71207275,-75.75524279,"Geolocated at the historic wharf in Onancock, VA",Accomac,UPDATE - COMBINE
+VA-Accomack,Accomack County,Virginia,United States,37.71207275,-75.75524279,"Geolocated at the historic wharf in Onancock, VA",Accomack,UPDATE - COMBINE
+VA-Accotink,Accotink,Virginia,United States,38.70643883,-77.15960291,"Geolocated at the bend in the Accotink Creek, where the town of Accotink once existed.",Accotink,UPDATE
+VA-Alex,Alexandria,Virginia,United States,38.80424426,-77.0402749,,VA-Alex,NO-UPDATE
+VA-Alex_(below),Alexandria (below),Virginia,United States,38.79228177,-77.03190896,Vessel spotted in the Potomac River below Alexandria,VA-Alex (below),UPDATE - COMBINE
+VA-Alex_(below),Alexandria (below),Virginia,United States,38.79228177,-77.03190896,Vessel spotted in the Potomac River below Alexandria,VA-AlexBelow,UPDATE - COMBINE
+VA-Alex_(passed-upriver),Alexandria (passed upriver),Virginia,United States,38.81138192,-77.03122544,,Passed up the Potomac to Washington,UPDATE - COMBINE
+VA-Alex_(passed-upriver),Alexandria (passed upriver),Virginia,United States,38.81138192,-77.03122544,Vessel spotted in the Potomac River passing Alexandria,VA-Alex (passed up river),UPDATE - COMBINE
+VA-Alex_(passed-upriver),Alexandria (passed upriver),Virginia,United States,38.81138192,-77.03122544,Vessel spotted in the Potomac River passing Alexandria,VA-AlexPassed,UPDATE - COMBINE
+VA-Aquia,Aquia Creek,Virginia,United States,38.45687835,-77.38331759,,Aquia,UPDATE - COMBINE
+VA-Aquia,Aquia Creek,Virginia,United States,38.45687835,-77.38331759,,AquiaCreek,UPDATE - COMBINE
+VA-Aquia,Aquia Creek,Virginia,United States,38.45687835,-77.38331759,,VA-Aquia,UPDATE - COMBINE
+VA-Aquia,Aquia Creek,Virginia,United States,38.45687835,-77.38331759,,VA-AquiaCreek,UPDATE - COMBINE
+VA-Assateague,Assateague Beach,Virginia,United States,37.88886518,-75.34203977,,VA-Assateague,NO-UPDATE
+VA-BackRiver,Back River,Virginia,United States,37.10851882,-76.32157347,Geolocated on the northern shore of the Back River,Back River,NO-UPDATE
+VA-BaconsCastle,Bacon's Castle,Virginia,United States,37.10828555,-76.72249517,,VA-Bacon'sCastle,UPDATE
+VA-BalconyFalls,Balcony Falls,Virginia,United States,37.62349337,-79.44484325,"located near Glasgow, VA in Rockbridge, County","Balcony Falls, Rockbridge County, Va",UPDATE
+VA-Belmont,Belmont,Virginia,United States,39.06453386,-77.5105245,,VA-Belmont,NO-UPDATE
+VA-Berlin,Berlin,Virginia,United States,39.30883497,-77.63117934,Geolocated in the Potomac River near the Berlin Turnpike,VA-Berlin,UPDATE
+VA-BermudaHundreds,Bermuda Hundreds,Virginia,United States,37.34144265,-77.27136129,,VA-BermudaHundreds,UPDATE
+VA-BluffPoint,Bluff Point,Virginia,United States,37.6894864,-76.30396698,,VA-BluffPoint,UPDATE
+VA-BoydsHole,Boyds Hole,Virginia,United States,38.3405272,-77.19872937,,Boyd's Hole,UPDATE - COMBINE
+VA-BoydsHole,Boyds Hole,Virginia,United States,38.3405272,-77.19872937,,Boydshole,UPDATE - COMBINE
+VA-BoydsHole,Boyds Hole,Virginia,United States,38.3405272,-77.19872937,,VA-BoydsHole,UPDATE - COMBINE
+VA-BroadRun,Broad Run,Virginia,United States,39.07154384,-77.44406835,Point located at the mouth of Broad Run in Loudoun County.,VA-BroadRun,NO-UPDATE
+VA-Broadway,Broadway,Virginia,United States,38.61753319,-78.79679092,BroadwayDepot-Rockingham,BroadwayDepot-Rockingham,UPDATE
+VA-BurrelsBay,Burrels Bay,Virginia,United States,37.04105374,-76.63839158,,Barrelsbay,UPDATE - COMBINE
+VA-BurrelsBay,Burrels Bay,Virginia,United States,37.04105374,-76.63839158,,Burwell's Bay,UPDATE - COMBINE
+VA-CabinPoint,CabinPoint,Virginia,United States,38.13036341,-76.65243258,,Cabin Point,UPDATE - COMBINE
+VA-CabinPoint,CabinPoint,Virginia,United States,38.13036341,-76.65243258,,VA-CabinPoint,UPDATE - COMBINE
+VA-CapeHenry,Cape Henry,Virginia,United States,36.97519113,-75.99877581,Geolocated off of Cape Henry,Cape Henry,UPDATE - COMBINE
+VA-CapeHenry,Cape Henry,Virginia,United States,36.97519113,-75.99877581,Geolocated off of Cape Henry,Off Cape Henry,UPDATE - COMBINE
+VA-CapeHenry,Cape Henry,Virginia,United States,36.97519113,-75.99877581,Geolocated off of Cape Henry,VA-CapeHenry,UPDATE - COMBINE
+VA-Capes_(outside),Outside of the Capes,Virginia,United States,36.98057807,-75.88125092,Point located outside of the mouth of the Chesapeake Bay,Outside the capes,UPDATE
+VA-CatoctinCreek,Catoctin Creek,Virginia,United States,39.27596511,-77.55073339,Point located at the mouth of Catoctin Creek in Loudoun County.,VA-CatoctinCreek,NO-UPDATE
+VA-Chappaw,Chappawamsic,Virginia,United States,38.49707,-77.30776,,VA-Chappaw,NO-UPDATE
+VA-CharlesCity,Charles City,Virginia,United States,37.34397176,-77.07127086,,Charles City,UPDATE
+VA-Charlestown,Charlestown,Virginia,United States,39.28907914,-77.85993936,,VA-Charlestown,NO-UPDATE
+VA-Cherrystone,Cherrystone,Virginia,United States,37.31664448,-76.0055726,,Cherry Stone,UPDATE - COMBINE
+VA-Cherrystone,Cherrystone,Virginia,United States,37.31664448,-76.0055726,,Cherrystoen,UPDATE - COMBINE
+VA-Cherrystone,Cherrystone,Virginia,United States,37.31664448,-76.0055726,,Cherrystone,UPDATE - COMBINE
+VA-Cherrystone,Cherrystone,Virginia,United States,37.31664448,-76.0055726,,VA-Cherrystone,UPDATE - COMBINE
+VA-Chesapeake,Chesapeake,Virginia,United States,36.76718749,-76.28930921,,Chesapeake,UPDATE
+VA-ChickahominyRiver,Chickahominy River,Virginia,United States,37.32287721,-76.87536457,Located in the Chickahominy River a little upriver from its mouth on the James River,Chickahominy,UPDATE - COMBINE
+VA-ChickahominyRiver,Chickahominy River,Virginia,United States,37.32287721,-76.87536457,Located in the Chickahominy River a little upriver from its mouth on the James River,Chickahomney,UPDATE - COMBINE
+VA-ChickahominyRiver,Chickahominy River,Virginia,United States,37.32287721,-76.87536457,Located in the Chickahominy River a little upriver from its mouth on the James River,Chickanhominy,UPDATE - COMBINE
+VA-ChickahominyRiver,Chickahominy River,Virginia,United States,37.32287721,-76.87536457,Located in the Chickahominy River a little upriver from its mouth on the James River,VA-Chickahominy,UPDATE - COMBINE
+VA-ChickahominyRiver,Chickahominy River,Virginia,United States,37.32287721,-76.87536457,Located in the Chickahominy River a little upriver from its mouth on the James River,VA-ChickahominyRiver,UPDATE - COMBINE
+VA-Chincoteague,Chincoteague,Virginia,United States,37.93163317,-75.3804024,,Chinchoteague,UPDATE - COMBINE
+VA-Chincoteague,Chincoteague,Virginia,United States,37.93163317,-75.3804024,,Chincoteague,UPDATE - COMBINE
+VA-Chincoteague,Chincoteague,Virginia,United States,37.93163317,-75.3804024,,VA-Chincoteague,UPDATE - COMBINE
+VA-Chincoteague_(off),Chincoteague (off),Virginia,United States,37.90885854,-75.29468204,,near Chincoteague,UPDATE
+VA-Chopawamsic,Chopawamsic,Virginia,United States,38.5155722,-77.35135346,Geolocated on Chopawamsic Creek near Route 1,Chappewamsic,UPDATE - COMBINE
+VA-Chopawamsic,Chopawamsic,Virginia,United States,38.5155722,-77.35135346,Geolocated on Chopawamsic Creek near Route 1,VA-Chappawamsic,UPDATE - COMBINE
+VA-CityPoint,City Point,Virginia,United States,37.31549246,-77.27303913,,VA-CityPoint,NO-UPDATE
+VA-Claremont,Claremont,Virginia,United States,37.22796059,-76.9645887,,Clairmont,UPDATE - COMBINE
+VA-Claremont,Claremont,Virginia,United States,37.22796059,-76.9645887,,Clairmount,UPDATE - COMBINE
+VA-Claremont,Claremont,Virginia,United States,37.22796059,-76.9645887,,Claremont,UPDATE - COMBINE
+VA-Claremont,Claremont,Virginia,United States,37.22796059,-76.9645887,,Claremount,UPDATE - COMBINE
+VA-Curls Neck,Curls Neck,Virginia,United States,37.36750876,-77.28410571,,Curles' Neck,UPDATE - COMBINE
+VA-Curls Neck,Curls Neck,Virginia,United States,37.36750876,-77.28410571,,Curls Neck,UPDATE - COMBINE
+VA-Curls Neck,Curls Neck,Virginia,United States,37.36750876,-77.28410571,,CurlsNeck,UPDATE - COMBINE
+VA-Curls Neck,Curls Neck,Virginia,United States,37.36750876,-77.28410571,,VA-Curls Neck,UPDATE - COMBINE
+VA-Currioman,Currioman,Virginia,United States,38.15454433,-76.76150285,,VA-Currioman,NO-UPDATE
+VA-Eastville,Eastville,Virginia,United States,37.35305888,-75.94610031,,VA-Eastville,UPDATE
+VA-ElizabethCity,Elizabeth City County,Virginia,United States,37.02478956,-76.34397825,"Point located at Hampton, within Elizabeth City County",VA-ElizabethCity,UPDATE
+VA-Falmouth,Falmouth,Virginia,United States,38.32396974,-77.46850844,,VA-Falmouth,UPDATE
+VA-FortCalhoun,Fort Calhoun,Virginia,United States,36.9864822,-76.3014009,,Fort Calhoun,UPDATE
+VA-Fredericksburg,Fredericksburg,Virginia,United States,38.30409355,-77.45859506,,VA-Fredericksburg,UPDATE
+VA-GooseCreek,Goose Creek,Virginia,United States,39.10082033,-77.48575135,,VA-GooseCr,UPDATE - COMBINE
+VA-GooseCreek,Goose Creek,Virginia,United States,39.10082033,-77.48575135,,VA-GooseCreek,UPDATE - COMBINE
+VA-GosportNavyYard,Gosport Navy Yard,Virginia,United States,36.81365684,-76.30347808,,Gosport Navy Yard,UPDATE
+VA-Hampton,Hampton Roads,Virginia,United States,37.02529947,-76.34162241,,Hampton,UPDATE - COMBINE
+VA-Hampton,Hampton Roads,Virginia,United States,37.02529947,-76.34162241,,Hampton Roads,UPDATE - COMBINE
+VA-Hampton,Hampton Roads,Virginia,United States,37.02529947,-76.34162241,,VA-Hampton,UPDATE - COMBINE
+VA-Hampton,Hampton Roads,Virginia,United States,37.02529947,-76.34162241,,VA-HamptonRoads,UPDATE - COMBINE
+VA-HarpFrry,Harpers Ferry,Virginia,United States,39.32320879,-77.72991999,,VA-HarpFrry,NO-UPDATE
+VA-Harrisonburg,Harrisonburg,Virginia,United States,38.44955483,-78.86908068,,VA-Harrisonburg,UPDATE
+VA-HogIsland,Hog Island,Virginia,United States,37.41245188,-75.67639555,Geolocated off the coast of Hog Island,Hog Island,UPDATE
+VA-HogIsland,Hog Island,Virginia,United States,37.41245188,-75.67639555,Geolocated off the coast of Hog Island,Off Hog Island,UPDATE - COMBINE
+VA-HogIslandLighthouse,Hog Island Lighthouse,Virginia,United States,37.39488545,-75.70529056,,Hog Island Light,UPDATE
+VA-HornHarbor,Horn Harbor,Virginia,United States,37.36844502,-76.30261287,,Horn Harbor,UPDATE
+VA-JamesCity,James City County,Virginia,United States,37.27051981,-76.7075833,Point located at Williamsburg (courthouse),VA-JamesCity,UPDATE
+VA-JamesRiver,James River,Virginia,United States,37.30098492,-76.9953482,Point located in the middle of the James River where its channel narrows northwest of Claremont,VA-JamesRiver,UPDATE
+VA-Jamestown,Jamestown,Virginia,United States,37.22531962,-76.78625771,,VA-Jamestown,UPDATE
+VA-JeffersonCty,Jefferson County,Virginia,United States,39.32276208,-77.7268395,Point located at confluence of Shenandoah & Potomac River,VA-JeffersonCty,NO-UPDATE
+VA-KingGeorgeCty,King George County,Virginia,United States,38.26437231,-77.14376398,Point located near the 19th century King George County courthouse.,VA-KingGeorgeCty,NO-UPDATE
+VA-Leesburg,Leesburg,Virginia,United States,39.11546414,-77.56452543,,VA-Leesburg,NO-UPDATE
+VA-LoudounCty,Loudoun County,Virginia,United States,39.137885,-77.527787,,VA-LoudounCty,NO-UPDATE
+VA-LoudounValley,Loudoun Valley,Virginia,United States,39.18769143,-77.68001502,"Point located near Wheatland, Virginia -- near the geometrical center of ""Loudoun Valley"" and along the North Fork of Catoctin Creek, a tributary of the Potomac",VA-LoudounValley,NO-UPDATE
+VA-Lower Brandon,Lower Brandon,Virginia,United States,37.25609907,-76.99858923,,VA-Lower Brandon,NO-UPDATE
+VA-Lynchburg,Lynchburg,Virginia,United States,37.41706127,-79.14287741,,VA-Lynchburg,UPDATE
+VA-Lynnhaven,Lynnhaven,Virginia,United States,36.90539913,-76.09144777,Geolocated at the mouth of the Lynnhaven River,Lynhaven,UPDATE - COMBINE
+VA-Lynnhaven,Lynnhaven,Virginia,United States,36.90539913,-76.09144777,Geolocated at the mouth of the Lynnhaven River,Lynnhaven,UPDATE - COMBINE
+VA-LynnhavenBay,Lynnhaven Bay,Virginia,United States,36.88758538,-76.07471557,Geolocated in Lynnhaven Bay,Lynnhaven Bay,UPDATE
+VA-Machodoc,Machodoc,Virginia,United States,38.08027082,-76.6974897,,Machodoc,UPDATE - COMBINE
+VA-Machodoc,Machodoc,Virginia,United States,38.08027082,-76.6974897,,VA-Machodoc,UPDATE - COMBINE
+VA-MachodocCreek,Machodoc Creek,Virginia,United States,38.09911094,-76.6553634,,Machodoc Creek,UPDATE
+VA-Martinsburg,Martinsburg,Virginia,United States,39.4562513,-77.96396148,,VA-Martinsburg,NO-UPDATE
+VA-MathiasPoint,Mathias Point,Virginia,United States,38.402253,-77.04254056,,Mathias' Point,UPDATE
+VA-MattaponiRiver,Mattaponi River,Virginia,United States,37.72345411,-77.02345803,Geolocated in Mattaponi River in the vicinity of Walkerton,Mataponi River,UPDATE
+VA-MattoxCreek,Mattox Creek,Virginia,United States,38.20481138,-77.00531693,,Mattox,UPDATE - COMBINE
+VA-MattoxCreek,Mattox Creek,Virginia,United States,38.20481138,-77.00531693,,VA-MaddoxCreek,UPDATE - COMBINE
+VA-MattoxCreek,Mattox Creek,Virginia,United States,38.20481138,-77.00531693,,VA-MattoxCreek,UPDATE - COMBINE
+VA-Mount Solon,Mount Solon,Virginia,United States,38.3448,-79.085,,VA-Mount Solon,NO-UPDATE
+VA-MountGilead,Mount Gilead,Virginia,United States,39.04543801,-77.66931441,,VA-MountGilead,UPDATE
+VA-MountJackson,Mount Jackson,Virginia,United States,38.74367029,-78.64253711,,VA-MountJackson,UPDATE
+VA-Nansemond,Nansemond,Virginia,United States,36.74000761,-76.58131082,"Geolocated in the Nansemond River near Suffolk, VA (Suffolk is/was the county seat)",Nansemond,UPDATE - COMBINE
+VA-Nansemond,Nansemond,Virginia,United States,36.74000761,-76.58131082,"Geolocated in the Nansemond River near Suffolk, VA (Suffolk is/was the county seat)",VA-Nansemond,UPDATE - COMBINE
+VA-NewKentCty,New Kent County,Virginia,United States,37.51495573,-76.98472105,Geolocated near the county seat of New Kent County,New Kent Co.,UPDATE
+VA-NewMarket,New Market,Virginia,United States,38.65138065,-78.66949564,,VA-NewMarket,UPDATE
+VA-NewPoint,New Point,Virginia,United States,37.34109481,-76.27129529,,VA-NewPoint,NO-UPDATE
+VA-NewportNews,Newport News,Virginia,United States,36.97508222,-76.41714265,,New Port News,UPDATE - COMBINE
+VA-NewportNews,Newport News,Virginia,United States,36.97508222,-76.41714265,,VA-NewportNews,UPDATE - COMBINE
+VA-Newton,Newton,Virginia,United States,39.08321644,-78.21831859,Newton (a.k.a. Stephensburg) is now Stephens City,VA-Newton,UPDATE
+VA-Nineveh,Nineveh,Virginia,United States,39.0159,-78.165,,VA-Nineveh,NO-UPDATE
+VA-Nomini,Nomini,Virginia,United States,38.09812084,-76.7303246,,Nomini,UPDATE - COMBINE
+VA-Nomini,Nomini,Virginia,United States,38.09812084,-76.7303246,,Nomoni,UPDATE - COMBINE
+VA-Nomini,Nomini,Virginia,United States,38.09812084,-76.7303246,,VA-Nomini,NO-UPDATE
+VA-Norfolk,Norfolk,Virginia,United States,36.84519536,-76.29196702,,VA-Norfolk,NO-UPDATE
+VA-NorthumberlandCty,Northumberland County,Virginia,United States,37.91653926,-76.4716411,"Point located at Heathsville, the Northumberland County courthouse",Northumberland,UPDATE
+VA-OldPointComfort,Old Point Comfort,Virginia,United States,37.00125472,-76.3115925,Geolocated near Fort Monroe at Old point Comfort,Old Point,UPDATE - COMBINE
+VA-OldPointComfort,Old Point Comfort,Virginia,United States,37.00125472,-76.3115925,Geolocated near Fort Monroe at Old point Comfort,Old Point - Hampton Roads,UPDATE - COMBINE
+VA-OldPointComfort,Old Point Comfort,Virginia,United States,37.00125472,-76.3115925,Geolocated near Fort Monroe at Old point Comfort,Old Point Comfort,UPDATE - COMBINE
+VA-OldPointComfort,Old Point Comfort,Virginia,United States,37.00125472,-76.3115925,Geolocated near Fort Monroe at Old point Comfort,VA-OldPoint,UPDATE - COMBINE
+VA-OldPointComfort,Old Point Comfort,Virginia,United States,37.00125472,-76.3115925,Geolocated near Fort Monroe at Old point Comfort,VA-OldPointComfort,UPDATE - COMBINE
+VA-Ordinary,Ordinary,Virginia,United States,37.31644402,-76.51353569,,Ordenary,UPDATE
+VA-PamunkeyRiver,Pamunkey River,Virginia,United States,37.53934252,-76.8104733,Geolocated in the mouth of the Pamunkey River near West Point,Pamunkey,UPDATE - COMBINE
+VA-PamunkeyRiver,Pamunkey River,Virginia,United States,37.53934252,-76.8104733,Geolocated in the mouth of the Pamunkey River near West Point,Pamunkey River,UPDATE - COMBINE
+VA-PamunkeyRiver,Pamunkey River,Virginia,United States,37.53934252,-76.8104733,Geolocated in the mouth of the Pamunkey River near West Point,PamunkeyRiver,UPDATE - COMBINE
+VA-PamunkeyRiver,Pamunkey River,Virginia,United States,37.53934252,-76.8104733,Geolocated in the mouth of the Pamunkey River near West Point,Pomonkey,UPDATE - COMBINE
+VA-PamunkeyRiver,Pamunkey River,Virginia,United States,37.53934252,-76.8104733,Geolocated in the mouth of the Pamunkey River near West Point,Pomonky,UPDATE - COMBINE
+VA-PamunkeyRiver,Pamunkey River,Virginia,United States,37.53934252,-76.8104733,Geolocated in the mouth of the Pamunkey River near West Point,Pomunkey,UPDATE - COMBINE
+VA-PamunkeyRiver,Pamunkey River,Virginia,United States,37.53934252,-76.8104733,Geolocated in the mouth of the Pamunkey River near West Point,VA-PamunkeyRiver,UPDATE - COMBINE
+VA-Passapatanzy,Passapatanzy,Virginia,United States,38.33357454,-77.26886652,Point located at the mouth of Creek,Pasapatansy,UPDATE - COMBINE
+VA-Passapatanzy,Passapatanzy,Virginia,United States,38.33357454,-77.26886652,Point located at the mouth of Creek,Paspatansy,UPDATE - COMBINE
+VA-Petersburg,Petersburg,Virginia,United States,37.23188652,-77.4047518,,VA-Petersburg,NO-UPDATE
+VA-PortRoyal,Port Royal,Virginia,United States,38.17134373,-77.19000848,,Port Royal,UPDATE
+VA-Portsmouth,Portsmouth,Virginia,United States,36.83699647,-76.30099167,,VA-Portsmouth,UPDATE
+VA-PortWalthall,Port Walthall,Virginia,United States,37.29980884,-77.35021595,,Port Walthall,UPDATE - COMBINE
+VA-PortWalthall,Port Walthall,Virginia,United States,37.29980884,-77.35021595,,VA-PortWalthall,UPDATE - COMBINE
+VA-PotomacCreek,Potomac Creek,Virginia,United States,38.34276278,-77.32988788,,Potomac Creek,UPDATE - COMBINE
+VA-PotomacCreek,Potomac Creek,Virginia,United States,38.34276278,-77.32988788,,VA-PotomacCreek,UPDATE - COMBINE
+VA-PotomacRiver,Potomac River,Virginia,United States,38.58746956,-77.22904482,"Point located in the middle of the Potomac River where its channel narrows, northeast of Quantico",Potomac River,UPDATE
+VA-PotomacRiver,Potomac River,Virginia,United States,38.58746956,-77.22904482,"Point located in the middle of the Potomac River where its channel narrows, northeast of Quantico",VA-PotomacRiver,UPDATE
+VA-PowellsCreek,Powells Creek,Virginia,United States,38.58849878,-77.27919753,,Powell's Creek,UPDATE
+VA-PrincessAnne,Princess Anne County,Virginia,United States,36.7236899,-76.01776911,Point located near the 19th century Princess Anne County Courthouse,P. Anne,UPDATE
+VA-RappahannockRiver,Rappahannock,Virginia,United States,38.03082694,-76.91173853,"Point located in the middle of the Rappahannock River where its channel narrows, northwest of Tappahannock",VA-Rappahannock,UPDATE - COMBINE
+VA-RappahannockRiver,Rappahannock,Virginia,United States,38.03082694,-76.91173853,"Point located in the middle of the Rappahannock River where its channel narrows, northwest of Tappahannock",VA-RappahannockRiver,UPDATE - COMBINE
+VA-RappahannockRiver_(ashore),Rappahannock River (ashore),Virginia,United States,37.63198952,-76.40548824,"Point located on the northern shore of the Rappahannock River, near its mouth on the Chesapeake",Rappahannock River (ashore),UPDATE
+VA-RappahannockRiver_(off),Rappahannock River (off),Virginia,United States,37.58154878,-76.25003213,Point located in the Chesapeake Bay near the mouth of the Rappahannock River,RappahannockRiver (off the Rappahannock),UPDATE
+VA-Richmond,Richmond,Virginia,United States,37.53041072,-77.42572175,,VA-Richmond,NO-UPDATE
+VA-Richmond_(at-the-bar),Richmond (at the bar),Virginia,United States,37.52185617,-77.41844517,Geolocated in the James River near the mouth of Stony Run,VA-at-the-Bar-Richmond,UPDATE
+VA-Richmond_(below),Richmond (below),Virginia,United States,37.51524057,-77.41721237,Geolocated in the James River near Rocketts Landing,VA-Richmond (Below in the river bound up),UPDATE - COMBINE
+VA-Richmond_(below),Richmond (below),Virginia,United States,37.51524057,-77.41721237,Geolocated in the James River near Rocketts Landing,VA-Richmond (below),UPDATE - COMBINE
+VA-Richmond_(below),Richmond (below),Virginia,United States,37.51524057,-77.41721237,Geolocated in the James River near Rocketts Landing,VA-RichmondBelow,UPDATE - COMBINE
+VA-Richmond_(entered),Richmond (entered),Virginia,United States,37.53086366,-77.42838021,Geolocated in the city canal along Dock Street,VA-Richmond (entered),UPDATE
+VA-Richmond_(loading),Richmond (loading),Virginia,United States,37.53086366,-77.42838021,Geolocated in the city canal along Dock Street,VA-Richmond (Loading),UPDATE
+VA-Richmond_(unloading),Richmond (unloading),Virginia,United States,37.53086366,-77.42838021,Geolocated in the city canal along Dock Street,VA-Richmond (Unloading),UPDATE
+VA-RockHill,Rock Hill,Virginia,United States,39.0492539,-77.80024384,"Point located in western Loudoun County, near Rock Hill Cemetary. Identified location using https://whgazetteer.org/places/13317844/portal",VA-RockHill,NO-UPDATE
+VA-RockinghamCty,Rockingham County,Virginia,United States,38.44955483,-78.86908068,Geolocated point at Harrisonburg (county seat),VA-RockinghamCty,UPDATE
+VA-RosierCreek,Rosier Creek,Virginia,United States,38.26538944,-77.0313257,Geolocated in the upper portion of Rosier Creek,Rozier,UPDATE - COMBINE
+VA-RosierCreek,Rosier Creek,Virginia,United States,38.26538944,-77.0313257,Geolocated in the upper portion of Rosier Creek,Roziers,UPDATE - COMBINE
+VA-RosierCreek,Rosier Creek,Virginia,United States,38.26538944,-77.0313257,Geolocated in the upper portion of Rosier Creek,Rozier's,UPDATE - COMBINE
+VA-SandyPoint,Sandy Point,Virginia,United States,38.07398132,-76.53724628,,Sandy Point,UPDATE - COMBINE
+VA-SandyPoint,Sandy Point,Virginia,United States,38.07398132,-76.53724628,,VA-SandyPoint,UPDATE - COMBINE
+VA-Shepherdstown,Shepherdstown,Virginia,United States,39.43031182,-77.80424147,,VA-Shepherdstown,NO-UPDATE
+VA-Shirley,Shirley,Virginia,United States,37.34189871,-77.26087667,,Shirley,UPDATE
+VA-SmartsMill,Smart's Mill,Virginia,United States,39.14483363,-77.52783049,,VA-SmartsMill,NO-UPDATE
+VA-Smithfield,Smithfield,Virginia,United States,36.98295401,-76.62985714,,Smithfield,UPDATE - COMBINE
+VA-Smithfield,Smithfield,Virginia,United States,36.98295401,-76.62985714,,VA-Smithfield,UPDATE - COMBINE
+VA-Smith'sPoint,Smith's Point,Virginia,United States,37.88606497,-76.23764154,,Smith's Point,UPDATE
+VA-Smith'sPoint (Ashore),Smith's Point,Virginia,United States,37.88606497,-76.23764154,,Smith's Point (ashore),UPDATE
+VA-Smith'sPoint (Lighthouse),Smith's Point Light House,,United States,37.88018786,-76.18393777,,VA-Smith'sPoint (Lighthouse),UPDATE
+VA-Smith'sPoint (Off),Smith's Point (off),Virginia,United States,37.88018786,-76.18393777,,Off Smith's Point,UPDATE
+VA-Stafford,Stafford,Virginia,United States,38.42206896,-77.40819236,,Stafford,UPDATE
+VA-Suffolk,Suffolk,Virginia,United States,36.73006064,-76.58248984,,Suffolk,UPDATE - COMBINE
+VA-Suffolk,Suffolk,Virginia,United States,36.73006064,-76.58248984,,VA-Suffolk,UPDATE - COMBINE
+VA-Surry,Surry,Virginia,United States,37.13821716,-76.83502135,,Surry,UPDATE
+VA-Tangier,Tangier,Virginia,United States,37.82858289,-75.99247319,,VA-Tangier,UPDATE
+VA-Tappahannock,Tappahannock,Virginia,United States,37.92896114,-76.85838069,,Tappahannock,UPDATE - COMBINE
+VA-Tappahannock,Tappahannock,Virginia,United States,37.92896114,-76.85838069,,VA-Tapphannock,UPDATE - COMBINE
+VA-TenthLegion,Tenth Legion,Virginia,United States,38.57739551,-78.73171852,,VA-TenthLegion,UPDATE
+VA-TurkeyIsland,Turkey Island,Virginia,United States,37.38362259,-77.25331607,,Turkey Island,UPDATE
+VA-TurkeyIsland_(opposite),Turkey Island (opposite),Virginia,United States,37.37719887,-77.26102258,,Turkey Island (opposite),UPDATE
+VA-UnionForge,Union Forge,Virginia,United States,38.83326122,-78.58942616,,Union Forge,UPDATE
+VA-UpperBrandon,Upper Brandon,Virginia,United States,37.28913884,-77.0268496,,Upper Brandon,UPDATE
+VA-UpperMachodoc,Upper Machodoc,Virginia,United States,38.31974807,-77.05225168,,Upper Machodoc,UPDATE
+VA-Urbanna,Urbanna,Virginia,United States,37.63545456,-76.5735415,,VA-Urbana,UPDATE
+VA-Varina,Varina,Virginia,United States,37.44707855,-77.35788088,,Varina,UPDATE
+VA-WachapreagueShoals,Wachapreague Shoals,Virginia,United States,37.58444754,-75.59454133,,Wachapreak Shoals (15 miles north of Hog Island),UPDATE
+VA-Warwick,Warwick Courthouse,Virginia,United States,37.12855806,-76.53718886,Geolocated at the approximate location of Warwick Court House; (note: there is also a Warwick in Rhode Island),VA-Warwick,UPDATE - COMBINE
+VA-Warwick,Warwick Courthouse,Virginia,United States,37.12855806,-76.53718886,Geolocated at the approximate location of Warwick Court House; (note: there is also a Warwick in Rhode Island),Warwick,UPDATE - COMBINE
+VA-WarwickRiver,Warwick River,Virginia,United States,37.11313781,-76.56410081,"Geolocated at the head of Warwick River, near Warwick, VA",Warwick River,UPDATE
+VA-WarwicksBar,Warwick's Bar,Virginia,United States,37.45740881,-77.41949994,,Warwick's Bar,UPDATE
+VA-Waterford,Waterford,Virginia,United States,39.18681716,-77.60996959,,VA-Waterford,UPDATE
+VA-WestmorelandCty,Westmoreland County,Virginia,United States,38.09541116,-76.82794254,"Point located at the Westmoreland County Courthouse in Montross, VA",Westmoreland,UPDATE
+VA-Williamsburg,Williamsburg,Virginia,United States,37.25176909,-76.71086451,"Geolocated near College Landing Park along College Creek, near Williamsburg in what may have been a navigable waterway.",VA-Williamsburg,UPDATE
+VA-Willoughby'sPoint,Willoughby's Point,Virginia,United States,36.9689673,-76.29460222,,Willoughby's Point,UPDATE
+VA-Willoughby'sPoint (ashore),Willoughby's Point,Virginia,United States,36.9689673,-76.29460222,Ship ran aground at Willoughby's Point,Willoughby's Point (ashore),UPDATE
+VA-WillowHill,Willow Hill,Virginia,United States,37.2550416,-77.05768645,,Willow Hill,UPDATE
+VA-Winchester,Winchester,Virginia,United States,39.186036,-78.16333719,,VA-Winchester,NO-UPDATE
+VA-WindmillPoint (Ashore),Windmill Point,Virginia,United States,37.61631152,-76.28125112,,Windmill Point (ashore),UPDATE
+VA-Woodstock,Woodstock,Virginia,United States,38.88189088,-78.50533959,,VA-Woodstock,NO-UPDATE
+VA-Woodville,Woodville,Virginia,United States,38.60659482,-78.17513418,,VA-Woodville,UPDATE
+VA-Wyanoke,Wyanoke,Virginia,United States,37.29224505,-77.06601652,,Wyanoke,UPDATE
+VA-Yeocomico,Yeocomico,Virginia,United States,37.99850523,-76.54361567,,VA-Yeocomico,UPDATE - COMBINE
+VA-Yeocomico,Yeocomico,Virginia,United States,37.99850523,-76.54361567,,Yecomico,UPDATE - COMBINE
+VA-Yeocomico,Yeocomico,Virginia,United States,37.99850523,-76.54361567,,Yeocomico,UPDATE - COMBINE
+VA-Yeocomico,Yeocomico,Virginia,United States,37.99850523,-76.54361567,,Yeomico,UPDATE - COMBINE
+VA-YeocomicoRiver,Yeocomico River,Virginia,United States,37.99850523,-76.54361567,,Yeomico River,UPDATE
+VA-YorkRiver,York River,Virginia,United States,37.23979505,-76.48678837,Geolocated in the York River in the vicinity of Yorktown,VA-YorkRiver,UPDATE
+VA-Yorktown,Yorktown,Virginia,United States,37.23916139,-76.5085998,,VA-Yorktown,UPDATE
+via Albemarle Canal,,,,NEW -- TO EDIT,,,via Albemarle Canal,UNKNOWN_LOC
+via Canal (to Portsmouth/Norfolk),,,,NEW -- TO EDIT,,,via Canal (to Portsmouth/Norfolk),UNKNOWN_LOC
+VI-StCroix,Christiansted,St. Croix,Danish West Indies,17.74712472,-64.70576758,Geolocated in Christiansted on St. Croix,St. Croix,UPDATE
+VI-StThomas,Charlotte Amalie,St. Thomas,Danish West Indies,18.34117553,-64.92990839,,St. Thomas,UPDATE - COMBINE
+VI-StThomas,Charlotte Amalie,St. Thomas,Danish West Indies,18.34117553,-64.92990839,,StThomasIsland,UPDATE
+Warren,,,,NEW -- TO EDIT,,Vague location: unknown,Warren,UNKNOWN_LOC
+Washington,,,,NEW -- TO EDIT,,Unsure which Washington: D.C. or North Carolina,Washington,UNKNOWN_LOC
+Watkins,,,,NEW -- TO EDIT,,Vague location: unknown,Watkins,UNKNOWN_LOC
+West Branch,,,,NEW -- TO EDIT,,Vague location: unknown,West Branch,UNKNOWN_LOC
+Western Branch,,,,NEW -- TO EDIT,,Vague location: unknown,Western Branch,UNKNOWN_LOC
+Western Shore,,,,NEW -- TO EDIT,,Vague location: unknown,Western Shore,UNKNOWN_LOC
+White Point,,,,NEW -- TO EDIT,,Vague location: unknown,White Point,UNKNOWN_LOC
+Willis',,,,NEW -- TO EDIT,,Vague location: unknown,Willis',UNKNOWN_LOC
+Wilmington,,,,NEW -- TO EDIT,,Unsure which Wilmington: North Carolina or Delaware,Wilmington,UNKNOWN_LOC
+WL-Cardiff,Cardiff,NULL,Wales,51.4810425,-3.16585385,,Cardiff,UPDATE - COMBINE
+WL-Cardiff,Cardiff,NULL,Wales,51.4810425,-3.16585385,,WL-Cardiff,UPDATE - COMBINE
+WL-Newport,Newport,NULL,Wales,51.58644744,-2.992077888,,Wales-Newport,UPDATE - COMBINE
+WL-Newport,Newport,NULL,Wales,51.58644744,-2.992077888,,WL-Newport,UPDATE - COMBINE
